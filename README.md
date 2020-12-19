@@ -1,6 +1,7 @@
 # Tracing Interdisciplinary Design Conversations
 
 * **Online URL**: TODO
+* **Contact**: eerdolu@andrew.cmu.edu
 * **Team members**:
   * Contact: eerdolu@andrew.cmu.edu
 * **Track**: TODO (one of Narrative, Model, or Interactive Visualization/Application)
