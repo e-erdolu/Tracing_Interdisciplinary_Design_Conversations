@@ -1,11 +1,8 @@
-# CMU Interactive Data Science Final Project
+# Tracing Interdisciplinary Design Conversations
 
 * **Online URL**: TODO
 * **Team members**:
-  * Contact person: TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
+  * Contact: eerdolu@andrew.cmu.edu
 * **Track**: TODO (one of Narrative, Model, or Interactive Visualization/Application)
 
 ## Work distribution
