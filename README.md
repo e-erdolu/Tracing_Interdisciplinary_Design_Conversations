@@ -6,7 +6,7 @@
   * Contact: eerdolu@andrew.cmu.edu
 * **Track**: TODO (one of Narrative, Model, or Interactive Visualization/Application)
 
-## Work distribution
+## Abstract
 
 Update towards the end of the project.
 
