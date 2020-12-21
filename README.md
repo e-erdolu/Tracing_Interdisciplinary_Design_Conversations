@@ -2,7 +2,7 @@
 
 * **Online URL**: https://e-erdolu.github.io/Tracing_Interdisciplinary_Design_Conversations/
 * **Running Instructions**:
-  * Click the online URL above and start navigating the interactive narrative.
+  * Click the online URL above and start navigating.
   * Use 50% or 67% zoomed out view on a Chrome web browser.
   * See the tips to interact with the visualizations.
 * **Contact**: eerdolu@andrew.cmu.edu
