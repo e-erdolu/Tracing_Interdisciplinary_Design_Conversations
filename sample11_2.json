@@ -1,0 +1,986 @@
+[
+    {
+        "Actor": "Niklas Maak",
+        "Time": "00:44",
+        "Value": 1,
+        "NumberOfWords": 518,
+        "NumberOfContentfulWords": 232,
+        "order": 0
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "04:40",
+        "Value": 3,
+        "NumberOfWords": 378,
+        "NumberOfContentfulWords": 148,
+        "order": 1
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "07:53",
+        "Value": 1,
+        "NumberOfWords": 563,
+        "NumberOfContentfulWords": 245,
+        "order": 2
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "08:07",
+        "Value": 2,
+        "NumberOfWords": 146,
+        "NumberOfContentfulWords": 50,
+        "order": 3
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "09:03",
+        "Value": 3,
+        "NumberOfWords": 384,
+        "NumberOfContentfulWords": 150,
+        "order": 4
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "09:04",
+        "Value": 2,
+        "NumberOfWords": 310,
+        "NumberOfContentfulWords": 112,
+        "order": 5
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "10:06",
+        "Value": 1,
+        "NumberOfWords": 569,
+        "NumberOfContentfulWords": 247,
+        "order": 6
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "10:08",
+        "Value": 2,
+        "NumberOfWords": 311,
+        "NumberOfContentfulWords": 112,
+        "order": 7
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "10:09",
+        "Value": 1,
+        "NumberOfWords": 598,
+        "NumberOfContentfulWords": 259,
+        "order": 8
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "10:17",
+        "Value": 2,
+        "NumberOfWords": 573,
+        "NumberOfContentfulWords": 196,
+        "order": 9
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "11:36",
+        "Value": 1,
+        "NumberOfWords": 617,
+        "NumberOfContentfulWords": 267,
+        "order": 10
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "11:45",
+        "Value": 2,
+        "NumberOfWords": 728,
+        "NumberOfContentfulWords": 248,
+        "order": 11
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "12:31",
+        "Value": 1,
+        "NumberOfWords": 618,
+        "NumberOfContentfulWords": 267,
+        "order": 12
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "12:32",
+        "Value": 2,
+        "NumberOfWords": 732,
+        "NumberOfContentfulWords": 251,
+        "order": 13
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "12:33",
+        "Value": 1,
+        "NumberOfWords": 646,
+        "NumberOfContentfulWords": 280,
+        "order": 14
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "12:42",
+        "Value": 2,
+        "NumberOfWords": 736,
+        "NumberOfContentfulWords": 251,
+        "order": 15
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "12:43",
+        "Value": 1,
+        "NumberOfWords": 665,
+        "NumberOfContentfulWords": 285,
+        "order": 16
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "12:52",
+        "Value": 2,
+        "NumberOfWords": 737,
+        "NumberOfContentfulWords": 251,
+        "order": 17
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "12:53",
+        "Value": 1,
+        "NumberOfWords": 677,
+        "NumberOfContentfulWords": 289,
+        "order": 18
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "12:55",
+        "Value": 2,
+        "NumberOfWords": 738,
+        "NumberOfContentfulWords": 251,
+        "order": 19
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "12:56",
+        "Value": 1,
+        "NumberOfWords": 678,
+        "NumberOfContentfulWords": 290,
+        "order": 20
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "12:57",
+        "Value": 2,
+        "NumberOfWords": 826,
+        "NumberOfContentfulWords": 283,
+        "order": 21
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "13:21",
+        "Value": 1,
+        "NumberOfWords": 742,
+        "NumberOfContentfulWords": 317,
+        "order": 22
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "13:45",
+        "Value": 3,
+        "NumberOfWords": 567,
+        "NumberOfContentfulWords": 222,
+        "order": 23
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "15:17",
+        "Value": 1,
+        "NumberOfWords": 859,
+        "NumberOfContentfulWords": 363,
+        "order": 24
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "15:55",
+        "Value": 2,
+        "NumberOfWords": 831,
+        "NumberOfContentfulWords": 284,
+        "order": 25
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "15:56",
+        "Value": 1,
+        "NumberOfWords": 898,
+        "NumberOfContentfulWords": 375,
+        "order": 26
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "16:05",
+        "Value": 2,
+        "NumberOfWords": 832,
+        "NumberOfContentfulWords": 285,
+        "order": 27
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "16:06",
+        "Value": 1,
+        "NumberOfWords": 904,
+        "NumberOfContentfulWords": 378,
+        "order": 28
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "16:08",
+        "Value": 2,
+        "NumberOfWords": 917,
+        "NumberOfContentfulWords": 322,
+        "order": 29
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "16:33",
+        "Value": 1,
+        "NumberOfWords": 936,
+        "NumberOfContentfulWords": 394,
+        "order": 30
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "16:48",
+        "Value": 2,
+        "NumberOfWords": 919,
+        "NumberOfContentfulWords": 322,
+        "order": 31
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "16:49",
+        "Value": 1,
+        "NumberOfWords": 969,
+        "NumberOfContentfulWords": 409,
+        "order": 32
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "17:02",
+        "Value": 2,
+        "NumberOfWords": 920,
+        "NumberOfContentfulWords": 322,
+        "order": 33
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "17:03",
+        "Value": 1,
+        "NumberOfWords": 990,
+        "NumberOfContentfulWords": 414,
+        "order": 34
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "17:09",
+        "Value": 2,
+        "NumberOfWords": 922,
+        "NumberOfContentfulWords": 322,
+        "order": 35
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "17:10",
+        "Value": 1,
+        "NumberOfWords": 992,
+        "NumberOfContentfulWords": 416,
+        "order": 36
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "17:11",
+        "Value": 2,
+        "NumberOfWords": 1048,
+        "NumberOfContentfulWords": 371,
+        "order": 37
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "17:49",
+        "Value": 1,
+        "NumberOfWords": 993,
+        "NumberOfContentfulWords": 416,
+        "order": 38
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "17:50",
+        "Value": 2,
+        "NumberOfWords": 1056,
+        "NumberOfContentfulWords": 374,
+        "order": 39
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "17:51",
+        "Value": 1,
+        "NumberOfWords": 995,
+        "NumberOfContentfulWords": 416,
+        "order": 40
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "17:52",
+        "Value": 2,
+        "NumberOfWords": 1060,
+        "NumberOfContentfulWords": 375,
+        "order": 41
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "17:53",
+        "Value": 1,
+        "NumberOfWords": 1082,
+        "NumberOfContentfulWords": 450,
+        "order": 42
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "18:22",
+        "Value": 3,
+        "NumberOfWords": 569,
+        "NumberOfContentfulWords": 222,
+        "order": 43
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "18:23",
+        "Value": 1,
+        "NumberOfWords": 1085,
+        "NumberOfContentfulWords": 451,
+        "order": 44
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "18:24",
+        "Value": 3,
+        "NumberOfWords": 613,
+        "NumberOfContentfulWords": 240,
+        "order": 45
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "18:37",
+        "Value": 2,
+        "NumberOfWords": 1067,
+        "NumberOfContentfulWords": 375,
+        "order": 46
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "18:38",
+        "Value": 3,
+        "NumberOfWords": 652,
+        "NumberOfContentfulWords": 251,
+        "order": 47
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "18:57",
+        "Value": 2,
+        "NumberOfWords": 1069,
+        "NumberOfContentfulWords": 376,
+        "order": 48
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "18:59",
+        "Value": 3,
+        "NumberOfWords": 723,
+        "NumberOfContentfulWords": 278,
+        "order": 49
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "19:35",
+        "Value": 2,
+        "NumberOfWords": 1148,
+        "NumberOfContentfulWords": 405,
+        "order": 50
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "19:57",
+        "Value": 3,
+        "NumberOfWords": 753,
+        "NumberOfContentfulWords": 288,
+        "order": 51
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "20:08",
+        "Value": 2,
+        "NumberOfWords": 1149,
+        "NumberOfContentfulWords": 405,
+        "order": 52
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "20:09",
+        "Value": 3,
+        "NumberOfWords": 780,
+        "NumberOfContentfulWords": 295,
+        "order": 53
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "20:16",
+        "Value": 2,
+        "NumberOfWords": 1151,
+        "NumberOfContentfulWords": 405,
+        "order": 54
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "20:17",
+        "Value": 3,
+        "NumberOfWords": 788,
+        "NumberOfContentfulWords": 297,
+        "order": 55
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "20:19",
+        "Value": 2,
+        "NumberOfWords": 1156,
+        "NumberOfContentfulWords": 406,
+        "order": 56
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "20:20",
+        "Value": 3,
+        "NumberOfWords": 845,
+        "NumberOfContentfulWords": 317,
+        "order": 57
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "20:45",
+        "Value": 2,
+        "NumberOfWords": 1375,
+        "NumberOfContentfulWords": 495,
+        "order": 58
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "21:51",
+        "Value": 3,
+        "NumberOfWords": 850,
+        "NumberOfContentfulWords": 319,
+        "order": 59
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "21:53",
+        "Value": 2,
+        "NumberOfWords": 1520,
+        "NumberOfContentfulWords": 554,
+        "order": 60
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "22:35",
+        "Value": 1,
+        "NumberOfWords": 1131,
+        "NumberOfContentfulWords": 474,
+        "order": 61
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "22:52",
+        "Value": 2,
+        "NumberOfWords": 1521,
+        "NumberOfContentfulWords": 554,
+        "order": 62
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "22:53",
+        "Value": 1,
+        "NumberOfWords": 1138,
+        "NumberOfContentfulWords": 477,
+        "order": 63
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "22:55",
+        "Value": 3,
+        "NumberOfWords": 858,
+        "NumberOfContentfulWords": 323,
+        "order": 64
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "22:58",
+        "Value": 1,
+        "NumberOfWords": 1170,
+        "NumberOfContentfulWords": 492,
+        "order": 65
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "23:07",
+        "Value": 2,
+        "NumberOfWords": 1522,
+        "NumberOfContentfulWords": 554,
+        "order": 66
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "23:08",
+        "Value": 1,
+        "NumberOfWords": 1181,
+        "NumberOfContentfulWords": 499,
+        "order": 67
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "23:12",
+        "Value": 2,
+        "NumberOfWords": 1523,
+        "NumberOfContentfulWords": 555,
+        "order": 68
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "23:13",
+        "Value": 1,
+        "NumberOfWords": 1184,
+        "NumberOfContentfulWords": 501,
+        "order": 69
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "23:14",
+        "Value": 2,
+        "NumberOfWords": 1524,
+        "NumberOfContentfulWords": 555,
+        "order": 70
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "23:15",
+        "Value": 1,
+        "NumberOfWords": 1260,
+        "NumberOfContentfulWords": 528,
+        "order": 71
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "23:41",
+        "Value": 2,
+        "NumberOfWords": 1527,
+        "NumberOfContentfulWords": 556,
+        "order": 72
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "23:42",
+        "Value": 3,
+        "NumberOfWords": 890,
+        "NumberOfContentfulWords": 335,
+        "order": 73
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "23:52",
+        "Value": 1,
+        "NumberOfWords": 1262,
+        "NumberOfContentfulWords": 528,
+        "order": 74
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "23:53",
+        "Value": 3,
+        "NumberOfWords": 1050,
+        "NumberOfContentfulWords": 401,
+        "order": 75
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "24:53",
+        "Value": 2,
+        "NumberOfWords": 1528,
+        "NumberOfContentfulWords": 557,
+        "order": 76
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "24:54",
+        "Value": 3,
+        "NumberOfWords": 1053,
+        "NumberOfContentfulWords": 401,
+        "order": 77
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "24:55",
+        "Value": 2,
+        "NumberOfWords": 1724,
+        "NumberOfContentfulWords": 621,
+        "order": 78
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "25:53",
+        "Value": 3,
+        "NumberOfWords": 1067,
+        "NumberOfContentfulWords": 406,
+        "order": 79
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "26:06",
+        "Value": 2,
+        "NumberOfWords": 1729,
+        "NumberOfContentfulWords": 623,
+        "order": 80
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "26:12",
+        "Value": 3,
+        "NumberOfWords": 1085,
+        "NumberOfContentfulWords": 414,
+        "order": 81
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "26:20",
+        "Value": 2,
+        "NumberOfWords": 1731,
+        "NumberOfContentfulWords": 624,
+        "order": 82
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "26:21",
+        "Value": 3,
+        "NumberOfWords": 1195,
+        "NumberOfContentfulWords": 456,
+        "order": 83
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "27:12",
+        "Value": 2,
+        "NumberOfWords": 1866,
+        "NumberOfContentfulWords": 669,
+        "order": 84
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "27:53",
+        "Value": 3,
+        "NumberOfWords": 1279,
+        "NumberOfContentfulWords": 488,
+        "order": 85
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "28:25",
+        "Value": 1,
+        "NumberOfWords": 1406,
+        "NumberOfContentfulWords": 586,
+        "order": 86
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "29:12",
+        "Value": 3,
+        "NumberOfWords": 1563,
+        "NumberOfContentfulWords": 599,
+        "order": 87
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "31:37",
+        "Value": 1,
+        "NumberOfWords": 1650,
+        "NumberOfContentfulWords": 684,
+        "order": 88
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "33:05",
+        "Value": 2,
+        "NumberOfWords": 2055,
+        "NumberOfContentfulWords": 745,
+        "order": 89
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "34:12",
+        "Value": 3,
+        "NumberOfWords": 1682,
+        "NumberOfContentfulWords": 641,
+        "order": 90
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "35:06",
+        "Value": 2,
+        "NumberOfWords": 2058,
+        "NumberOfContentfulWords": 745,
+        "order": 91
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "35:07",
+        "Value": 3,
+        "NumberOfWords": 1712,
+        "NumberOfContentfulWords": 652,
+        "order": 92
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "35:16",
+        "Value": 2,
+        "NumberOfWords": 2059,
+        "NumberOfContentfulWords": 745,
+        "order": 93
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "35:17",
+        "Value": 3,
+        "NumberOfWords": 1715,
+        "NumberOfContentfulWords": 654,
+        "order": 94
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "35:19",
+        "Value": 2,
+        "NumberOfWords": 2065,
+        "NumberOfContentfulWords": 748,
+        "order": 95
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "35:20",
+        "Value": 3,
+        "NumberOfWords": 1722,
+        "NumberOfContentfulWords": 655,
+        "order": 96
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "35:23",
+        "Value": 2,
+        "NumberOfWords": 2066,
+        "NumberOfContentfulWords": 749,
+        "order": 97
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "35:24",
+        "Value": 3,
+        "NumberOfWords": 1731,
+        "NumberOfContentfulWords": 658,
+        "order": 98
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "35:29",
+        "Value": 2,
+        "NumberOfWords": 2261,
+        "NumberOfContentfulWords": 822,
+        "order": 99
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "36:23",
+        "Value": 3,
+        "NumberOfWords": 1736,
+        "NumberOfContentfulWords": 660,
+        "order": 100
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "36:25",
+        "Value": 1,
+        "NumberOfWords": 1670,
+        "NumberOfContentfulWords": 692,
+        "order": 101
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "36:32",
+        "Value": 2,
+        "NumberOfWords": 2366,
+        "NumberOfContentfulWords": 861,
+        "order": 102
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "37:00",
+        "Value": 3,
+        "NumberOfWords": 1738,
+        "NumberOfContentfulWords": 660,
+        "order": 103
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "37:01",
+        "Value": 1,
+        "NumberOfWords": 1673,
+        "NumberOfContentfulWords": 692,
+        "order": 104
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "37:02",
+        "Value": 2,
+        "NumberOfWords": 2383,
+        "NumberOfContentfulWords": 868,
+        "order": 105
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "37:05",
+        "Value": 1,
+        "NumberOfWords": 1761,
+        "NumberOfContentfulWords": 729,
+        "order": 106
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "37:35",
+        "Value": 2,
+        "NumberOfWords": 2649,
+        "NumberOfContentfulWords": 971,
+        "order": 107
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "38:50",
+        "Value": 1,
+        "NumberOfWords": 1771,
+        "NumberOfContentfulWords": 735,
+        "order": 108
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "38:56",
+        "Value": 2,
+        "NumberOfWords": 2650,
+        "NumberOfContentfulWords": 972,
+        "order": 109
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "38:57",
+        "Value": 1,
+        "NumberOfWords": 1777,
+        "NumberOfContentfulWords": 736,
+        "order": 110
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "38:58",
+        "Value": 2,
+        "NumberOfWords": 2799,
+        "NumberOfContentfulWords": 1021,
+        "order": 111
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "39:39",
+        "Value": 1,
+        "NumberOfWords": 1795,
+        "NumberOfContentfulWords": 744,
+        "order": 112
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "39:47",
+        "Value": 3,
+        "NumberOfWords": 2066,
+        "NumberOfContentfulWords": 798,
+        "order": 113
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "42:13",
+        "Value": 2,
+        "NumberOfWords": 3031,
+        "NumberOfContentfulWords": 1114,
+        "order": 114
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "43:21",
+        "Value": 1,
+        "NumberOfWords": 1810,
+        "NumberOfContentfulWords": 750,
+        "order": 115
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "43:29",
+        "Value": 3,
+        "NumberOfWords": 2242,
+        "NumberOfContentfulWords": 854,
+        "order": 116
+    },
+    {
+        "Actor": "Tony Fadell",
+        "Time": "44:35",
+        "Value": 2,
+        "NumberOfWords": 3238,
+        "NumberOfContentfulWords": 1195,
+        "order": 117
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "45:42",
+        "Value": 1,
+        "NumberOfWords": 1927,
+        "NumberOfContentfulWords": 796,
+        "order": 118
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "46:22",
+        "Value": 3,
+        "NumberOfWords": 2566,
+        "NumberOfContentfulWords": 976,
+        "order": 119
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "48:52",
+        "Value": 1,
+        "NumberOfWords": 1928,
+        "NumberOfContentfulWords": 796,
+        "order": 120
+    },
+    {
+        "Actor": "Rem Koolhaas",
+        "Time": "48:53",
+        "Value": 3,
+        "NumberOfWords": 2583,
+        "NumberOfContentfulWords": 982,
+        "order": 121
+    },
+    {
+        "Actor": "Niklas Maak",
+        "Time": "48:58",
+        "Value": 1,
+        "NumberOfWords": 1931,
+        "NumberOfContentfulWords": 797,
+        "order": 122
+    }
+]

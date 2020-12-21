@@ -1,0 +1,1020 @@
+{
+    "name": "All",
+    "children": [
+        {
+            "name": "Technological design",
+            "children": [
+                {
+                    "name": "algorithms",
+                    "value": 2
+                },
+                {
+                    "name": "smartphones",
+                    "value": 1
+                },
+                {
+                    "name": "functionality",
+                    "value": 1
+                },
+                {
+                    "name": "manual",
+                    "value": 1
+                },
+                {
+                    "name": "sensor",
+                    "value": 1
+                },
+                {
+                    "name": "object",
+                    "value": 3
+                },
+                {
+                    "name": "loop",
+                    "value": 1
+                },
+                {
+                    "name": "information",
+                    "value": 10
+                },
+                {
+                    "name": "data",
+                    "value": 10
+                },
+                {
+                    "name": "player",
+                    "value": 1
+                },
+                {
+                    "name": "iPhone",
+                    "value": 2
+                },
+                {
+                    "name": "ads",
+                    "value": 1
+                },
+                {
+                    "name": "mobile",
+                    "value": 1
+                },
+                {
+                    "name": "connected",
+                    "value": 4
+                },
+                {
+                    "name": "cars",
+                    "value": 5
+                },
+                {
+                    "name": "inventor",
+                    "value": 1
+                },
+                {
+                    "name": "connectivity",
+                    "value": 2
+                },
+                {
+                    "name": "Google",
+                    "value": 7
+                },
+                {
+                    "name": "laptop",
+                    "value": 2
+                },
+                {
+                    "name": "screen",
+                    "value": 2
+                },
+                {
+                    "name": "programmer",
+                    "value": 2
+                },
+                {
+                    "name": "vehicle",
+                    "value": 1
+                },
+                {
+                    "name": "services",
+                    "value": 1
+                },
+                {
+                    "name": "telephones",
+                    "value": 1
+                },
+                {
+                    "name": "technology",
+                    "value": 19
+                },
+                {
+                    "name": "button",
+                    "value": 1
+                },
+                {
+                    "name": "servers",
+                    "value": 1
+                },
+                {
+                    "name": "thermostats",
+                    "value": 8
+                },
+                {
+                    "name": "industry",
+                    "value": 1
+                },
+                {
+                    "name": "Silicon",
+                    "value": 5
+                },
+                {
+                    "name": "dial",
+                    "value": 1
+                },
+                {
+                    "name": "equipped",
+                    "value": 3
+                },
+                {
+                    "name": "epsilon",
+                    "value": 1
+                },
+                {
+                    "name": "technoutopian",
+                    "value": 1
+                },
+                {
+                    "name": "Microsoft",
+                    "value": 1
+                },
+                {
+                    "name": "Windows",
+                    "value": 1
+                },
+                {
+                    "name": "technophobia",
+                    "value": 1
+                },
+                {
+                    "name": "Nest",
+                    "value": 7
+                },
+                {
+                    "name": "device",
+                    "value": 6
+                },
+                {
+                    "name": "ID",
+                    "value": 1
+                },
+                {
+                    "name": "feedback",
+                    "value": 4
+                },
+                {
+                    "name": "technophoria",
+                    "value": 1
+                },
+                {
+                    "name": "Twitter",
+                    "value": 1
+                },
+                {
+                    "name": "iPod",
+                    "value": 2
+                },
+                {
+                    "name": "objects",
+                    "value": 1
+                },
+                {
+                    "name": "technologies",
+                    "value": 3
+                },
+                {
+                    "name": "phones",
+                    "value": 1
+                },
+                {
+                    "name": "instant",
+                    "value": 1
+                },
+                {
+                    "name": "product",
+                    "value": 5
+                },
+                {
+                    "name": "machines",
+                    "value": 2
+                },
+                {
+                    "name": "VCR",
+                    "value": 1
+                },
+                {
+                    "name": "consumer",
+                    "value": 2
+                },
+                {
+                    "name": "products",
+                    "value": 16
+                },
+                {
+                    "name": "tablet",
+                    "value": 1
+                },
+                {
+                    "name": "personal",
+                    "value": 2
+                },
+                {
+                    "name": "simulate",
+                    "value": 1
+                },
+                {
+                    "name": "cells",
+                    "value": 1
+                },
+                {
+                    "name": "thermostat",
+                    "value": 18
+                },
+                {
+                    "name": "stored",
+                    "value": 1
+                },
+                {
+                    "name": "iPhones",
+                    "value": 2
+                },
+                {
+                    "name": "system",
+                    "value": 2
+                },
+                {
+                    "name": "learning",
+                    "value": 5
+                },
+                {
+                    "name": "Apple",
+                    "value": 1
+                },
+                {
+                    "name": "temperature",
+                    "value": 9
+                },
+                {
+                    "name": "invention",
+                    "value": 3
+                },
+                {
+                    "name": "technophobe",
+                    "value": 1
+                },
+                {
+                    "name": "car",
+                    "value": 11
+                },
+                {
+                    "name": "informational",
+                    "value": 1
+                },
+                {
+                    "name": "IT",
+                    "value": 1
+                },
+                {
+                    "name": "privacy",
+                    "value": 8
+                },
+                {
+                    "name": "digital",
+                    "value": 6
+                },
+                {
+                    "name": "store",
+                    "value": 1
+                },
+                {
+                    "name": "transparency",
+                    "value": 8
+                },
+                {
+                    "name": "smartphone",
+                    "value": 1
+                },
+                {
+                    "name": "application",
+                    "value": 1
+                },
+                {
+                    "name": "computer",
+                    "value": 1
+                },
+                {
+                    "name": "TVs",
+                    "value": 2
+                },
+                {
+                    "name": "devices",
+                    "value": 10
+                },
+                {
+                    "name": "Valley",
+                    "value": 5
+                },
+                {
+                    "name": "installed",
+                    "value": 2
+                },
+                {
+                    "name": "technological",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "name": "Architectural",
+            "children": [
+                {
+                    "name": "rebuilding",
+                    "value": 1
+                },
+                {
+                    "name": "town",
+                    "value": 1
+                },
+                {
+                    "name": "OMA",
+                    "value": 2
+                },
+                {
+                    "name": "biennial",
+                    "value": 3
+                },
+                {
+                    "name": "size",
+                    "value": 1
+                },
+                {
+                    "name": "shelves",
+                    "value": 1
+                },
+                {
+                    "name": "pavilions",
+                    "value": 1
+                },
+                {
+                    "name": "units",
+                    "value": 3
+                },
+                {
+                    "name": "fireplaces",
+                    "value": 1
+                },
+                {
+                    "name": "element",
+                    "value": 9
+                },
+                {
+                    "name": "ceiling",
+                    "value": 1
+                },
+                {
+                    "name": "tower",
+                    "value": 1
+                },
+                {
+                    "name": "built",
+                    "value": 1
+                },
+                {
+                    "name": "architects",
+                    "value": 4
+                },
+                {
+                    "name": "city",
+                    "value": 2
+                },
+                {
+                    "name": "urbanistic",
+                    "value": 1
+                },
+                {
+                    "name": "structures",
+                    "value": 1
+                },
+                {
+                    "name": "places",
+                    "value": 2
+                },
+                {
+                    "name": "floor",
+                    "value": 2
+                },
+                {
+                    "name": "houses",
+                    "value": 5
+                },
+                {
+                    "name": "space",
+                    "value": 5
+                },
+                {
+                    "name": "pavilion",
+                    "value": 1
+                },
+                {
+                    "name": "inhabitable",
+                    "value": 3
+                },
+                {
+                    "name": "cities",
+                    "value": 5
+                },
+                {
+                    "name": "biennials",
+                    "value": 1
+                },
+                {
+                    "name": "homes",
+                    "value": 8
+                },
+                {
+                    "name": "build",
+                    "value": 1
+                },
+                {
+                    "name": "elements",
+                    "value": 19
+                },
+                {
+                    "name": "buildings",
+                    "value": 3
+                },
+                {
+                    "name": "room",
+                    "value": 6
+                },
+                {
+                    "name": "suburbia",
+                    "value": 1
+                },
+                {
+                    "name": "storeys",
+                    "value": 1
+                },
+                {
+                    "name": "house",
+                    "value": 4
+                },
+                {
+                    "name": "dweller",
+                    "value": 1
+                },
+                {
+                    "name": "curtain",
+                    "value": 1
+                },
+                {
+                    "name": "ramp",
+                    "value": 4
+                },
+                {
+                    "name": "dwell",
+                    "value": 2
+                },
+                {
+                    "name": "modernization",
+                    "value": 1
+                },
+                {
+                    "name": "handicapped",
+                    "value": 1
+                },
+                {
+                    "name": "plan",
+                    "value": 1
+                },
+                {
+                    "name": "door",
+                    "value": 1
+                },
+                {
+                    "name": "bed",
+                    "value": 2
+                },
+                {
+                    "name": "agglomerations",
+                    "value": 2
+                },
+                {
+                    "name": "architectural",
+                    "value": 7
+                },
+                {
+                    "name": "curator",
+                    "value": 1
+                },
+                {
+                    "name": "office",
+                    "value": 2
+                },
+                {
+                    "name": "apartments",
+                    "value": 1
+                },
+                {
+                    "name": "forms",
+                    "value": 2
+                },
+                {
+                    "name": "planning",
+                    "value": 3
+                },
+                {
+                    "name": "fireplace",
+                    "value": 1
+                },
+                {
+                    "name": "housing",
+                    "value": 1
+                },
+                {
+                    "name": "rooms",
+                    "value": 1
+                },
+                {
+                    "name": "home",
+                    "value": 14
+                },
+                {
+                    "name": "apartment",
+                    "value": 2
+                },
+                {
+                    "name": "urbanism",
+                    "value": 2
+                },
+                {
+                    "name": "architect",
+                    "value": 8
+                },
+                {
+                    "name": "plane",
+                    "value": 1
+                },
+                {
+                    "name": "wall",
+                    "value": 3
+                },
+                {
+                    "name": "building",
+                    "value": 4
+                },
+                {
+                    "name": "kitchen",
+                    "value": 1
+                },
+                {
+                    "name": "bath",
+                    "value": 1
+                },
+                {
+                    "name": "green",
+                    "value": 5
+                },
+                {
+                    "name": "urban",
+                    "value": 1
+                },
+                {
+                    "name": "bedroom",
+                    "value": 3
+                },
+                {
+                    "name": "dwelling",
+                    "value": 2
+                },
+                {
+                    "name": "access",
+                    "value": 1
+                },
+                {
+                    "name": "residential",
+                    "value": 1
+                },
+                {
+                    "name": "spaces",
+                    "value": 2
+                },
+                {
+                    "name": "architecture",
+                    "value": 23
+                }
+            ]
+        },
+        {
+            "name": "Inter / dual-disciplinary",
+            "children": [
+                {
+                    "name": "management",
+                    "value": 1
+                },
+                {
+                    "name": "produce",
+                    "value": 1
+                },
+                {
+                    "name": "change",
+                    "value": 13
+                },
+                {
+                    "name": "knob",
+                    "value": 1
+                },
+                {
+                    "name": "designs",
+                    "value": 1
+                },
+                {
+                    "name": "production",
+                    "value": 1
+                },
+                {
+                    "name": "develop",
+                    "value": 1
+                },
+                {
+                    "name": "histories",
+                    "value": 1
+                },
+                {
+                    "name": "security",
+                    "value": 5
+                },
+                {
+                    "name": "consume",
+                    "value": 3
+                },
+                {
+                    "name": "changes",
+                    "value": 1
+                },
+                {
+                    "name": "nonpleasurable",
+                    "value": 1
+                },
+                {
+                    "name": "save",
+                    "value": 2
+                },
+                {
+                    "name": "consumed",
+                    "value": 1
+                },
+                {
+                    "name": "producing",
+                    "value": 1
+                },
+                {
+                    "name": "produced",
+                    "value": 1
+                },
+                {
+                    "name": "comfy",
+                    "value": 1
+                },
+                {
+                    "name": "intelligence",
+                    "value": 7
+                },
+                {
+                    "name": "sustainability",
+                    "value": 2
+                },
+                {
+                    "name": "dystopic",
+                    "value": 1
+                },
+                {
+                    "name": "savings",
+                    "value": 1
+                },
+                {
+                    "name": "heat",
+                    "value": 3
+                },
+                {
+                    "name": "designing",
+                    "value": 5
+                },
+                {
+                    "name": "future",
+                    "value": 4
+                },
+                {
+                    "name": "commercial",
+                    "value": 2
+                },
+                {
+                    "name": "cultural",
+                    "value": 1
+                },
+                {
+                    "name": "secure",
+                    "value": 1
+                },
+                {
+                    "name": "transgression",
+                    "value": 4
+                },
+                {
+                    "name": "able",
+                    "value": 11
+                },
+                {
+                    "name": "development",
+                    "value": 2
+                },
+                {
+                    "name": "demographics",
+                    "value": 1
+                },
+                {
+                    "name": "wasting",
+                    "value": 2
+                },
+                {
+                    "name": "public",
+                    "value": 3
+                },
+                {
+                    "name": "market",
+                    "value": 3
+                },
+                {
+                    "name": "climates",
+                    "value": 1
+                },
+                {
+                    "name": "carbon",
+                    "value": 2
+                },
+                {
+                    "name": "controls",
+                    "value": 2
+                },
+                {
+                    "name": "learn",
+                    "value": 5
+                },
+                {
+                    "name": "learned",
+                    "value": 1
+                },
+                {
+                    "name": "social",
+                    "value": 2
+                },
+                {
+                    "name": "governments",
+                    "value": 2
+                },
+                {
+                    "name": "controlling",
+                    "value": 1
+                },
+                {
+                    "name": "heated",
+                    "value": 2
+                },
+                {
+                    "name": "discomfort",
+                    "value": 9
+                },
+                {
+                    "name": "design",
+                    "value": 2
+                },
+                {
+                    "name": "costs",
+                    "value": 1
+                },
+                {
+                    "name": "communicating",
+                    "value": 3
+                },
+                {
+                    "name": "adapt",
+                    "value": 7
+                },
+                {
+                    "name": "environments",
+                    "value": 2
+                },
+                {
+                    "name": "pleasurable",
+                    "value": 1
+                },
+                {
+                    "name": "cultures",
+                    "value": 1
+                },
+                {
+                    "name": "energy",
+                    "value": 19
+                },
+                {
+                    "name": "transgressing",
+                    "value": 1
+                },
+                {
+                    "name": "generation",
+                    "value": 4
+                },
+                {
+                    "name": "value",
+                    "value": 1
+                },
+                {
+                    "name": "state",
+                    "value": 7
+                },
+                {
+                    "name": "opaque",
+                    "value": 1
+                },
+                {
+                    "name": "connections",
+                    "value": 2
+                },
+                {
+                    "name": "protect",
+                    "value": 2
+                },
+                {
+                    "name": "changed",
+                    "value": 3
+                },
+                {
+                    "name": "footprint",
+                    "value": 4
+                },
+                {
+                    "name": "saved",
+                    "value": 1
+                },
+                {
+                    "name": "control",
+                    "value": 11
+                },
+                {
+                    "name": "utopia",
+                    "value": 4
+                },
+                {
+                    "name": "research",
+                    "value": 5
+                },
+                {
+                    "name": "conflict",
+                    "value": 3
+                },
+                {
+                    "name": "intelligent",
+                    "value": 1
+                },
+                {
+                    "name": "generations",
+                    "value": 3
+                },
+                {
+                    "name": "heating",
+                    "value": 5
+                },
+                {
+                    "name": "transparent",
+                    "value": 2
+                },
+                {
+                    "name": "cooling",
+                    "value": 4
+                },
+                {
+                    "name": "untraceable",
+                    "value": 1
+                },
+                {
+                    "name": "consumption",
+                    "value": 2
+                },
+                {
+                    "name": "vision",
+                    "value": 3
+                },
+                {
+                    "name": "utopian",
+                    "value": 2
+                },
+                {
+                    "name": "brand",
+                    "value": 1
+                },
+                {
+                    "name": "culture",
+                    "value": 2
+                },
+                {
+                    "name": "comfort",
+                    "value": 4
+                },
+                {
+                    "name": "connecting",
+                    "value": 1
+                },
+                {
+                    "name": "creating",
+                    "value": 5
+                },
+                {
+                    "name": "environment",
+                    "value": 1
+                },
+                {
+                    "name": "improvement",
+                    "value": 2
+                },
+                {
+                    "name": "environmental",
+                    "value": 1
+                },
+                {
+                    "name": "create",
+                    "value": 3
+                },
+                {
+                    "name": "communicates",
+                    "value": 1
+                },
+                {
+                    "name": "values",
+                    "value": 3
+                },
+                {
+                    "name": "created",
+                    "value": 2
+                },
+                {
+                    "name": "improving",
+                    "value": 1
+                },
+                {
+                    "name": "transparencies",
+                    "value": 1
+                },
+                {
+                    "name": "supply",
+                    "value": 1
+                },
+                {
+                    "name": "designed",
+                    "value": 1
+                },
+                {
+                    "name": "history",
+                    "value": 8
+                },
+                {
+                    "name": "communicate",
+                    "value": 2
+                },
+                {
+                    "name": "improve",
+                    "value": 1
+                },
+                {
+                    "name": "interfaces",
+                    "value": 1
+                },
+                {
+                    "name": "connect",
+                    "value": 5
+                },
+                {
+                    "name": "industrial",
+                    "value": 1
+                },
+                {
+                    "name": "interface",
+                    "value": 2
+                },
+                {
+                    "name": "program",
+                    "value": 6
+                },
+                {
+                    "name": "government",
+                    "value": 5
+                }
+            ]
+        }
+    ]
+}

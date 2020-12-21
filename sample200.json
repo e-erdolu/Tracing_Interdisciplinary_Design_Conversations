@@ -1,0 +1,27 @@
+{"nodes": [
+    {"id": "Goldberger", "group": 1}, 
+    {"id": "Fadell", "group": 1}, 
+    {"id": "Koolhaas", "group": 1}
+    ], 
+    
+    "links": [
+        {"source": "Goldberger", "target": "Fadell", "value": 27, "valueTimes": 90, "time": 8}, 
+        {"source": "Goldberger", "target": "Koolhaas", "value": 22, "valueTimes": 79, "time": 8}, 
+        {"source": "Fadell", "target": "Koolhaas", "value": 17, "valueTimes": 59, "time": 8}, 
+        {"source": "Goldberger", "target": "Fadell", "value": 58, "valueTimes": 281, "time": 16}, 
+        {"source": "Goldberger", "target": "Koolhaas", "value": 51, "valueTimes": 212, "time": 16}, 
+        {"source": "Fadell", "target": "Koolhaas", "value": 36, "valueTimes": 181, "time": 16}, 
+        {"source": "Goldberger", "target": "Fadell", "value": 79, "valueTimes": 411, "time": 24}, 
+        {"source": "Goldberger", "target": "Koolhaas", "value": 88, "valueTimes": 404, "time": 24}, 
+        {"source": "Fadell", "target": "Koolhaas", "value": 65, "valueTimes": 335, "time": 24}, 
+        {"source": "Goldberger", "target": "Fadell", "value": 118, "valueTimes": 657, "time": 32}, 
+        {"source": "Goldberger", "target": "Koolhaas", "value": 121, "valueTimes": 565, "time": 32}, 
+        {"source": "Fadell", "target": "Koolhaas", "value": 108, "valueTimes": 590, "time": 32},
+        {"source": "Goldberger", "target": "Fadell", "value": 118, "valueTimes": 657, "time": 40}, 
+        {"source": "Goldberger", "target": "Koolhaas", "value": 121, "valueTimes": 565, "time": 40}, 
+        {"source": "Fadell", "target": "Koolhaas", "value": 108, "valueTimes": 590, "time": 40},
+        {"source": "Goldberger", "target": "Fadell", "value": 118, "valueTimes": 657, "time": 48}, 
+        {"source": "Goldberger", "target": "Koolhaas", "value": 121, "valueTimes": 565, "time": 48}, 
+        {"source": "Fadell", "target": "Koolhaas", "value": 108, "valueTimes": 590, "time": 48}
+        ]
+    }
