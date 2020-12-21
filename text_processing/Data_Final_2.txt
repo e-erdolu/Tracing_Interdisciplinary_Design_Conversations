@@ -1,0 +1,1008 @@
+Paul_Goldberger: (00:14) 
+great thank you welcome to what I think 
+is the only panel at this summit that 
+brings together the brick-and-mortar 
+physical world that we all live in and 
+the tech and information worlds that we 
+mainly talk about so what I hope we can 
+do in the next few minutes is look a 
+little bit at where they intersect or 
+where they don't where they should 
+connect more or whether maybe they 
+should connect less which i think is 
+part of the point of the provocative and 
+remarkable exhibition Rem Koolhaas did 
+at the Venice Biennale this year which 
+is still on if anyone's going to Venice 
+called the Elements of Architecture 
+which looked at very very basic things 
+in architecture to try to I think 
+reinforce a sense of physicality again 
+we have a very short video really that 
+just gives you a very fast overview of 
+it maybe we'll show it now and then 
+we'll begin conversation
+
+Paul_Goldberger: (02:12) 
+okay we now now it's time for you to finish the sentence
+
+Rem_Koolhaas: (02:17) 
+basically what I was trying to do 
+is to to address the issue that 
+architecture but also city planning and 
+also the making of cars is kind of 
+really about to change fundamentally to 
+the kind of intersection with the 
+digital world and that process is taking 
+place under the influence of a lot of 
+the thinking here but it's taking place 
+alone and and not in combination or not 
+in collaboration with the domains that 
+you influence and so I wanted to kind of really 
+show that for instance the notion of the 
+fireplace is deeply influenced by what 
+Tony has done in Nest but that the condition 
+of the floor is changing that the 
+ceiling is changing and I wanted to kind 
+of really create a situation that 
+instead of surrendering blankly to these 
+kind of forces we can actually begin to 
+collaborate and in the collaboration 
+perhaps also question some of the 
+directions that are being generated
+
+Paul_Goldberger: (03:26) 
+Tony Fadell who founded Nest 
+is I think one of the great I will say 
+creators because I pledged not to use 
+the word innovators one more time today 
+one of the great creators in Silicon 
+Valley I know you guys have talked 
+before because you spent you actually 
+in Venice did a long a long conversation 
+which was somewhat oppositional today 
+Rem you're talking about collaboration 
+what what has changed
+
+Rem_Koolhaas: (04:02) I I
+
+Paul_Goldberger: (04:03) 
+other than the fact that you're in the turf of tech
+
+Rem_Koolhaas: (04:06) 
+no no no actually actually it was always about collaboration
+
+Paul_Goldberger: (04:09) okay 
+
+Rem_Koolhaas: (04:10) 
+so there's no there's no opposition 
+I think it's it's interesting how basically 
+in each profession there is a position embedded 
+whether you want to or not
+
+Paul_Goldberger: (04:20) right
+
+Rem_Koolhaas: (04:21) 
+and this is what I was saying 
+you know if you're an architect you by 
+definition have to care about legacy you 
+have to care by definition about the 
+past and about history and that doesn't 
+mean you're a technophobe I think that 
+all those things can be can happen in 
+close collaboration but the 
+collaboration without collaboration I 
+think that you risk going in a kind of 
+tangent without let's say the the interaction 
+or the interface with some parts of the 
+real world and we risk simply being left behind
+
+Tony_Fadell: (05:01) exactly
+
+Paul_Goldberger: (05:02) Tony yeah
+
+Tony_Fadell: (05:03) 
+when we look at when we 
+look at technology today being brought 
+in it's really retrofitted into buildings 
+
+Paul_Goldberger: (05:08) right
+
+Tony_Fadell: (05:09) 
+it's we're not designing buildings around it 
+or with it it really involved you know now we do 
+it when we brought in electricity it was always 
+tacked on back in the late eighteen hundreds right
+
+Paul_Goldberger: (05:17) right right well or
+
+Tony_Fadell: (05:18) and now it's integrated into the walls
+
+Paul_Goldberger: (05:19) 
+or even or even inside plumbing
+
+Tony_Fadell: (05:21) 
+yeah plumbing and all those things 
+were integrated over time we're now at 
+that next phase where we're taking these 
+other things such as what we're building 
+at Nest or other companies and now 
+starting to think and collaborating to 
+really make it part of the architecture 
+so the computing is not in-your-face and 
+these kinds of sensors are not 
+in-your-face they actually recede into the 
+structure itself and make the structure 
+better not just be this tacked on
+
+Paul_Goldberger: (05:43) 
+so you think the the Nest is really a sort of 
+intermediate generation
+
+Tony_Fadell: (05:48) 
+well I I hope so 
+I hope there's going to be a lot more 
+evolution when I look at you know the 
+arcane way of somehow these different 
+systems work together they're really not 
+modernized at all it's because no one 
+really thought about these two worlds 
+colliding and so what's really been for 
+us is is now talking to architects and 
+talking to system designers and and 
+plumbing and equipment manufacturers and 
+and they're learning about our world and 
+they have lots of questions just like we 
+had in Venice there's a lot of questions 
+that we have to answer on both sides to 
+be able to learn about each other to be 
+able to make these integrations happen 
+but it's going to take a long time
+
+Paul_Goldberger: (06:22) 
+ok if I were to take your comment about 
+collaboration literally and say okay you 
+know I'm building a new building and I 
+want to commission the firm of Koolhaas 
+and Fadell to design it what would 
+it look like where would we be going 
+with it how would it be different from 
+the buildings we know
+
+Rem_Koolhaas: (06:43) 
+I I think the beauty 
+of what he is doing or what they are 
+doing is is that it's not necessarily 
+defining a new look but it's kind of 
+defining a new performance and therefore 
+it simply adds another layer of 
+intelligence and to the extent I think 
+that oppositional is the wrong way but 
+word but yes I'm critical of certain 
+aspects I'm critical of the kind of 
+relentless profit motive that kind of seems 
+to invade or characterize almost every 
+one of the new inventions and therefore 
+kind of suddenly introducing an architecture a 
+domain or a question that never was 
+there before and and and that is really the the 
+the one area where I'm critical I'm also critical 
+in the sense of the arguments I think more maybe 
+the two are connected maybe it is 
+because the profit motive is 
+so important more and more inventions 
+are sold because they support security 
+increased security they increase comfort 
+and they increase sustainability and
+
+Paul_Goldberger: (08:00) 
+that was your new Trinity you said an essay you wrote yes
+
+Rem_Koolhaas: (08:03) 
+and I was basically saying you know my generation was 
+interested in the notion of egalite fraternite and the 
+French Revolution and now we are stuck with comfort 
+sustainability and security and I'm not necessarily 
+finding that a kind of great change
+
+Paul_Goldberger: (08:22) 
+well is that really less an 
+architectural change than a change in 
+the the social mores of the time
+
+Rem_Koolhaas: (08:31) clearly yeah
+
+Paul_Goldberger: (08:32) 
+that we move from a sense of the common good to 
+a sense of the private good
+
+Rem_Koolhaas: (08:36) yeah clearly
+
+Paul_Goldberger: (08:37) 
+and architecture inevitably reflects a 
+society's values more than it actually 
+shapes them I think for is it for better or 
+for worse it it seems to Tony
+
+Tony_Fadell: (08:48) 
+well I I I think that you 
+know if we look at what's going on in 
+homes today obviously it's about the 
+home first but if you can actually get 
+people engaged with some of these new 
+systems getting engaged and learn about 
+their homes to the until today a lot of 
+people come to us and say well yeah I 
+feel like I have to always take care of 
+my home why do I always have to take 
+care of it there's a leak here this is 
+needs to get fixed why can't that the 
+systems tell me before things fail so 
+that I can we can be proactive about it as 
+opposed to it's broken and now we don't 
+have hot water at two in the morning or 
+something like that so we're looking at 
+also bringing freedom back into the home 
+for homeowners so I think there's a 
+there's a gentle balance here but it it 
+does start really selfishly by the 
+homeowner and the people who live in it 
+but hopefully with information in these 
+kinds of systems they can learn about 
+the community around them and be able to 
+do have the larger impact through the 
+the the information we can provide through 
+these systems
+
+Paul_Goldberger: (09:41) 
+so it really is about the physical 
+systems within a structure they would I 
+mean Nest certainly is that
+
+Tony_Fadell: (09:46) 
+well our goal is really to take the things 
+that are already around us that have been unloved 
+for years and and literally reinvent 
+them so they give you that information 
+and make you part of the community so we 
+have a a a rolling total of all the energy 
+that was saved by all of our customers 
+and it's been two and a half billion 
+kilowatt hours already in just less than 
+three years and so people start to see 
+and they can see why they've used more or 
+used less and then they can start to make 
+conscious choices we're not trying to 
+we're not trying to be judgmental saying you 
+have to turn it down we're just giving 
+them the information just like the 
+quantified self we're doing the 
+quantified home in a way to allow people 
+to make better choices if they so choose
+
+Paul_Goldberger: (10:21) 
+I like my Nest just because it looks so beautiful
+
+Tony_Fadell: (10:24) 
+and there's another reason for it as well
+
+Paul_Goldberger: (10:25) 
+I I I don't really I mean it's great if it 
+saves energy although that's not why I 
+have it I have it because the the that 
+old Honeywell thermostat was one of the 
+ugliest things I'd ever seen actually so 
+if let's talk about technology in a 
+different part of the building process 
+why is the process of actually making 
+buildings so slow you know that you can 
+have what we can envision the most wired 
+house the house with nests up the wazoo 
+the house that with every other tech 
+thing we're capable of creating today it 
+still probably took two years to build 
+why has technology not made inroads into 
+the way in which the thing itself the 
+architecture itself is made
+
+Tony_Fadell: (11:15) 
+well from what I've experienced by building homes was really
+
+Paul_Goldberger: (11:20) 
+yeah you can speak you can speak as a client now if you want
+
+Tony_Fadell: (11:23) 
+Yeah I want to I wanted to do a prefab house I 
+want to do a prefab I want to do it 
+exactly the way we wanted it it was going to 
+come off of a manufacturing line but 
+then what happened was we wanted to make 
+a few changes it wasn't going to be the 
+exact house we wanted and the reason why 
+we couldn't make the changes was because 
+the building codes in every single 
+jurisdiction around the US are 
+different and we fight that every day 
+with Nest there's all these little 
+arcane rules for us to be able to sell 
+our products into each thing that that 
+whole governmental 
+you know legislation goes around and 
+stifles the innovation for architects 
+for manufacturers to do prefab homes or 
+even the systems inside of homes and 
+then you have the whole contractor 
+organization who wants to just do what 
+they've always been doing because they 
+don't want to learn about new a lot of 
+them don't want to learn about new 
+things so all of these things come 
+together to really stifle innovation at 
+least I've seen it from a customer 
+perspective
+
+Rem_Koolhaas: (12:17) 
+my my answer would be 
+different I think that the architecture 
+is both ancient and slightly absurd 
+because what we do we we design prototypes 
+we design prototypes for things that 
+will never go into production and we 
+therefore design a chain or sequence of 
+completely unique buildings completely 
+unique definitions that are addressing 
+unique context unique programs unique 
+people so we are in the business of 
+creating uniqueness and that is of 
+course very beautiful because almost 
+everything else seems to be kind of on 
+the way to be normative repetitive etcetera etcetera 
+but basically if you do a prototype you 
+have to be careful you have to test 
+things and that's why it takes long
+
+Paul_Goldberger: (13:02) 
+architecture is in its very essence 
+sort of bespoke we could say
+
+Rem_Koolhaas: (13:07) 
+yeah I I would say so yeah
+
+Tony_Fadell: (13:08) 
+it for our from the technical rule we say it's always in beta
+
+Paul_Goldberger: (13:11) 
+yeah it's always in
+
+Tony_Fadell: (13:12) 
+it's always in beta it never finally shapes
+
+Rem_Koolhaas: (13:14) yeah yeah
+
+Tony_Fadell: (13:15) it's a live live piece
+
+Paul_Goldberger: (13:16) 
+but if it remains that way how will we 
+ever solve any of the problems that we 
+we would like architecture to solve even 
+as it also creates extraordinary 
+aesthetic experiences and profound 
+spaces for us we also want to house more 
+people we want to make day-to-day life 
+more pleasurable for more people with 
+better roofs over their heads or even 
+some roof over their heads how is this 
+compatible with that 
+
+Rem_Koolhaas: (13:48) 
+I think that you're you're confusing political  
+issues or economic issues with architectural 
+issues I think there are parts of the world 
+where architecture really provides an 
+amazing service to unbelievable amounts 
+of human beings ironically maybe you 
+don't live in one of those parts of the 
+world neither do I and that is why of 
+course major and important architectural 
+initiatives are taking place now in Asia in
+
+Paul_Goldberger: (14:20) right
+
+Rem_Koolhaas: (14:21) 
+in the countries that that we are remote 
+from and that is why I personally have 
+been making every effort to be involved 
+in those countries whatever ideological kind 
+of issue one might have with it but I think it's 
+unfair to say that architecture is so 
+slow that cannot accommodate speed 
+because for instance in China it is 
+accommodating amazing speed
+
+Paul_Goldberger: (14:49) 
+you were one of the very first people to become 
+engaged with the question of the 
+megacity as I recall and and its 
+implications around the world which you 
+did ten or more years ago
+
+Rem_Koolhaas: (15:00) ten
+
+Paul_Goldberger: (15:01) twenty
+
+Rem_Koolhaas: (15:02) 
+fifty no I I came I came to New York in the seventies 
+to to understand kind of really really what 
+a megacity was and to understand how 
+different the megacity was from what we 
+collectively were still cherishing as 
+the model of the city ie something well 
+composed coherent with beautiful 
+dimensions and and proportions and an 
+overview I think that we have any merit it 
+is that I was able to describe something 
+much wilder much more chaotic much more 
+kind of random and arbitrary still as a kind 
+of defensible and interesting organism 
+and an interesting support for culture
+
+Paul_Goldberger: (15:55) 
+well Delirious New York is I I what you're 
+referring to I think which is your book 
+that is really now a classic and was forty 
+years ago I think but
+
+Rem_Koolhaas: (16:07) I was joking
+
+Paul_Goldberger: (16:08) 
+no but it was it was pretty close but it was it was almost 
+wasn't it wasn't it the late seventies that came out
+
+Rem_Koolhaas: (16:12) yeah yeah
+
+Paul_Goldberger: (16:13) 
+so it was almost forty years ago 
+were you in effect saying that the 
+New York was the first metacity you know
+
+Rem_Koolhaas: (16:24) not
+
+Paul_Goldberger: (16:25) megacity
+
+Rem_Koolhaas: (16:26) 
+not really but I simply took New York and and because 
+it was convenient it's limited it it's defined and 
+and and used it as a kind of prototype of a 
+condition that I was anticipating would 
+work would be more and more ubiquitous
+
+Paul_Goldberger: (16:43) 
+because the the scale of the megacities 
+around the world now makes New York look 
+like San Francisco
+
+Rem_Koolhaas: (16:49) yeah yeah
+
+Tony_Fadell: (16:50) yeah absolutely
+
+Paul_Goldberger: (16:51) it would seem
+
+Tony_Fadell: (16:52) 
+absolutely Rem do you do you see any real differences 
+in in in your projects when they're in China versus 
+India or or some of the other things you do
+
+Rem_Koolhaas: (16:58) yeah I
+
+Tony_Fadell: (17:00) 
+interactions with the government or something
+
+Rem_Koolhaas: (17:02) 
+I I think the the my my final conclusion and it's kind of 
+really surprised me myself is that the 
+most important kind of difference in 
+architecture today is the age of people 
+that decide basically in in China the 
+decision maker is thirtyfive in Europe the 
+decision maker is kind of fiftyfive in America 
+the decision maker in many cases is a 
+trustee and therefore kind of even even 
+older and I think that age is kind of really a 
+clearly correlation between age and 
+appetite for risk and so for me the the 
+ultimate difference is what adventure what 
+amount of adventure what about amount 
+which amount of change our particular 
+society is willing to engage with yeah
+
+Tony_Fadell: (18:02) absolutely absolutely
+
+Paul_Goldberger: (18:03) 
+so do you think the old city that we were 
+talking about that you wrote about in 
+Delirious New York that the the the coherent 
+well the coherent city that you referred 
+to before is is merely a sentimental
+
+Rem_Koolhaas: (18:17) no
+
+Paul_Goldberger: (18:18) attraction at this point
+
+Rem_Koolhaas: (18:19) no
+
+Paul_Goldberger: (18:20) no okay
+
+Rem_Koolhaas: (18:21) 
+I I think that I'm European and 
+therefore I of course I love European 
+cities but I became aware early that 
+there is a kind of implied considerable 
+shift going on and and we've seen it whether 
+you call it globalization or 
+mobilization or the awakening of China or 
+the kind of shift of economic activity 
+in the world and that we had never 
+adjusted our paradigms and that 
+therefore we were still looking at what 
+was being produced in those other 
+territories by those other cultures under 
+those different circumstances and 
+still we were cherishing this kind of 
+one model that nobody else could could 
+ever achieve so we had a kind of very 
+bizarre relationship with with the world 
+because we could all only say well it's 
+not like us and it's not as beautiful as 
+we were and therefore I try to simply to 
+to kind of readjust that that kind of situation
+
+Paul_Goldberger: (19:25) 
+and so so by one model you mean the traditional Western
+
+Rem_Koolhaas: (19:29) Western Western model yeah
+
+Paul_Goldberger: (19:30) 
+street oriented city that that the the sort of Jane Jacobs 
+model we might almost say of the lively street
+
+Rem_Koolhaas: (19:37) 
+as an American you could say Jane Jacobs or you 
+could also say Haussmann or or anybody
+
+Paul_Goldberger: (19:44) right okay
+
+Rem_Koolhaas: (19:45) 
+and in Venice one of the things that was for me 
+very very important is to look at 
+elements also of other cultures and and 
+therefore we have a kind of analysis for 
+instance how the Chinese designed 
+roofs in the eleventh century according to 
+which formula and initially we thought 
+that meant Chinese are not kind of 
+original but as we translated the kind of 
+literature more more we discovered that 
+actually they were dealing with 
+incredibly modern phenomena like 
+corruption kind of value engineering 
+etcetera and that kind of basically embedded 
+in that kind of thinking about how 
+elements should be constructed there was 
+a vast intelligence very often even if 
+it's thousand years still of important 
+relevance and what I'm kind of actually 
+interested in seeing is whether there is 
+a kind of combination of combining digital 
+intelligence with all those other forms 
+of intelligence or whether it means that 
+you basically throw out kind of 
+everything as antiquated or or ancient
+
+Paul_Goldberger: (21:02) 
+yeah I I I felt that elements could be 
+read almost both ways as both a valedictory a 
+farewell to traditional architectural elements and 
+also at the same time a plea that is somehow 
+connected to this world
+
+Tony_Fadell: (21:18) 
+well if you looked at elements there were different 
+strands along the way that died off right
+
+Paul_Goldberger: (21:22) yeah
+
+Rem_Koolhaas: (21:23) yeah
+
+Tony_Fadell: (21:24) 
+there were certain things that continued and 
+other things that died off it was just it was 
+interesting to watch the evolution or things 
+turned into other elements
+
+Rem_Koolhaas: (21:29) yeah
+
+Tony_Fadell: (21:30) and so for me
+
+Paul_Goldberger: (21:31) right
+
+Tony_Fadell: (21:32) we're at one one point in time
+
+Rem_Koolhaas: (21:33) yeah
+
+Tony_Fadell: (21:34) 
+what is it going to look like in twenty or thirty 
+years I'm I'm I'm fascinated to see what the 
+collaboration looks like
+
+Paul_Goldberger: (21:38) 
+and you know the history of 
+architecture has really always been a 
+history of aesthetics being enabled by 
+technology right I mean from the flying 
+buttress of the Gothic cathedral and 
+then when it's superseded it's gone I 
+mean nobody does flying buttresses anymore 
+right so all the way through architectural 
+history it's been technology the latest 
+technology enabling some new aesthetic 
+direction
+
+Tony_Fadell: (22:05) 
+exactly risk you know risk takers risk taking clients 
+and architects working together with the technologists 
+putting things together something stick right the CCTV 
+building right that's an absolutely gorgeous
+
+Paul_Goldberger: (22:15) 
+CCTV CCTV in Beijing which I'm sorry I wish we had 
+an image of could not have been built twenty 
+years ago is that right or could it have 
+been
+
+Rem_Koolhaas: (22:25) 
+no but but the reason is not 
+technology per se but it's the fact that 
+the construction and the details of the 
+construction could only be calculated in 
+time by current computers
+
+Paul_Goldberger: (22:42) right
+
+Rem_Koolhaas: (22:43) 
+simply computers only ten twelve years ago 
+would have been too slow to in time 
+calculate all the effects all the kind 
+of moments all the conditions inside that building
+
+Paul_Goldberger: (22:54) 
+well even before that I mean it was in the nineties that 
+Frank Gehry said that without that computer digital 
+software Bilbao could never have been 
+built this is you're saying one 
+generation almost later the same issue 
+applies but that confirms that at least 
+sometimes architecture is at the cutting 
+edge of technology even if it takes 
+forever to build a conventional house
+
+Tony_Fadell: (23:21) 
+but we put more and more technology and 
+you know I look at it from when we 
+design a product there's still a 
+twelve month kind of window when we start a 
+project to finish and we'll put more and 
+more technology in it every year but 
+it's still really that that that human 
+design process that needs to happen to 
+to to have a great outcome and I think that's 
+just what it takes because you have to 
+iterate even though we say it's a beta 
+product you know in terms of architecture 
+you still must iterate and iterate 
+to get to that point to keep it within 
+the two year kind of thing and work with 
+all the governmental bodies and all the 
+new energy renewable policies and those 
+kinds of things so it's it's interesting
+
+Paul_Goldberger: (23:58) 
+what tell me more for a minute about and 
+we're almost at time for questions so any if 
+anyone has any this is the moment to 
+head toward the mics but while we wait 
+for that let me go back to the whole 
+question of of of the ultimate digital house 
+you guys collaborating on a new kind of 
+architecture how different would the 
+rooms be how different would what what 
+would be different in my living room if 
+I had this house
+
+Tony_Fadell: (24:25) 
+well when we design our products
+
+Paul_Goldberger: (24:27) ok
+
+Tony_Fadell: (24:28) 
+I I I you know people come to me 
+why didn't you even put a screen on it why didn't you 
+even put why didn't you even have a device 
+in the home why don't just do everything 
+from the phone and I'm like wait a 
+second you have guests in your house you 
+have children in your house you have you 
+know elderly in your house they're not 
+always going to have a phone with them 
+at all times and maybe it's not even 
+charged you still need physical elements 
+in the home they could look slightly 
+different there's got to be a a a standard 
+interface for these things you just 
+don't throw everything out so you have 
+to be able to blend you know that's been 
+part of my career is 
+blending the old with the new and to 
+allow people to move forward with it 
+not not feeling trepidation 
+that they're going to a whole new world 
+and throwing everything out don't 
+understand anything longer so I think 
+there's going to be a blend in this 
+collaboration and I hope it's going to 
+hide the technology not to show it the 
+way it is today you know in many ways 
+but you'll still have interface physical interface
+
+Paul_Goldberger: (25:21) 
+will you have a whole different system of of transmitting 
+electrical power say
+
+Rem_Koolhaas: (25:26) essentially essentially yes
+
+Tony_Fadell: (25:27) 
+well we know that there are much better ways of doing 
+electricity than a hundred and ten volts or 
+two hundred forty volts fifty hertz sixty hertz 
+they're much better ways high voltage ways for high 
+current for low current that you know you can't 
+get shocked on you can have better 
+energy efficiency DC powers really great 
+there's many technologies but because we 
+have so much infrastructure built around 
+the appliances the the wiring systems 
+the contractors everything that it's 
+hard to be able to adopt these things 
+unless you go to an island or a to a 
+yacht or some new city that someone's 
+willing to invest and bring all that 
+technology in
+
+Paul_Goldberger: (25:58) is that happening anywhere
+
+Tony_Fadell: (26:01) 
+I know in labs it's happening I don't know 
+if it's happening in the real world
+
+Rem_Koolhaas: (26:05) 
+I think that in one of the rooms in 
+Venice is is interesting because on one 
+wall you see two hundred Victorian windows that 
+are unbelievably intricate beautiful 
+delicate decorated intelligent and 
+enabling a vast amount of different 
+manipulations and on the the other part 
+of the room you see a typical 
+contemporary aluminum window being 
+tested to conform to the European norm 
+basically what you see is in kind of 
+just over a hundred years an 
+unbelievable loss in terms of ingenuity 
+variation beauty presumably but I hope 
+will be one of the effects of digital 
+technology is not that it kind of 
+reduces kind of possibility but it actually 
+kind of expands possibility and and that 
+we can find a way to increase choice 
+again in in certain ways I mean that's 
+that should be a kind of pact
+
+Tony_Fadell: (27:09) absolutely
+
+Paul_Goldberger: (27:10) 
+the idea of greater choice
+
+Rem_Koolhaas: (27:11) 
+not a greater choice in the obvious way but greater 
+investment in in in creativity and in alternatives 
+I would say
+
+Paul_Goldberger: (27:24) 
+Rem and in your introduction to the 
+elements in Venice 
+you wrote I thought very movingly 
+actually about recalling 
+architectural elements from your 
+childhood from the apartment you grew up 
+in the balcony the image of the balcony 
+I remember particularly strongly is it 
+possible that if we begin to forfeit 
+certain kinds of physical elements in 
+favor of digital ones we could lose that 
+sort of resonance in your memory that 
+degree of profound influence that that 
+architecture can have on your psyche
+
+Rem_Koolhaas: (28:02) 
+I you you make it sound kind of 
+slightly more conservative than than 
+I meant it and I think I was simply 
+inventorizing all my first memories of these 
+elements and I think that kids whatever 
+happens they've always have first 
+memories whether it is over TV over TV 
+or a toaster of so I don't think that 
+will fundamentally change it's not that 
+I'm kind of worried that kind of somehow 
+what people are doing here will kind of 
+flatten the world I'm I'm kind of simply 
+world worried that there is a focus on 
+issues that in the end will kind of reduce 
+our options reduce our appetite for 
+adventure reduce our appetite for I 
+mentioned it in Venice transgression
+
+Tony_Fadell: (28:55) transgression
+
+Paul_Goldberger: (28:56) 
+transgression right ok 
+I mean in in other words is it possible 
+that your house would know too much 
+we've talked a lot today in the last 
+couple days about other
+
+Tony_Fadell: (29:05) yeah and
+
+Paul_Goldberger: (29:06) in other panels
+
+Tony_Fadell: (29:07) Rem said this in Venice is
+
+Paul_Goldberger: (29:08) right
+
+Tony_Fadell: (29:09) 
+like literally all these systems are going to be 
+talking to you telling you what to do every day 
+and so you're going to conform to what that house 
+is telling you to do because it was programmed 
+from some Big Brother somewhere and I hope 
+that's definitely not the case what we want to 
+do is give people much more freedom much 
+more choice but give them the information to 
+make those choices
+
+Rem_Koolhaas: (29:26) 
+but it it could happen of course
+
+Paul_Goldberger: (29:28) yes
+
+Tony_Fadell: (29:29) it could happen absolutely
+
+Paul_Goldberger: (29:30) 
+right right just 
+because inevitably even if there's not a 
+Big Brother situation you you do respond 
+to what the device allows you to 
+encourage you to do in very subtle ways right
+
+Tony_Fadell: (29:44) 
+but that's what you have today those devices they 
+might be dumb but they're very limited 
+as well you can only do certain things with them
+
+Paul_Goldberger: (29:49) sure
+
+Tony_Fadell: (29:50) 
+what we're seeing is much 
+more creativity much more flexible use 
+of these things from wherever it is the 
+question is is what is the feedback to 
+you and what is it asking you to do
+
+Paul_Goldberger: (29:58) right right
+
+Rem_Koolhaas: (29:59) 
+yeah but let's take a very stupid example 
+there are cars now that basically 
+project speed that you drive with in front 
+of you unfortunately I have to admit 
+that I behave better with that kind of machine 
+than without it but that's why I hate 
+both the machine and myself for being 
+such a conformist and so I think that 
+there are embedded in a lot of our stuff 
+is the same you know pressure to conform 
+and I think that is for me cumulatively 
+a very oppressive situation
+
+Paul_Goldberger: (30:38) 
+you told me earlier today that you just driven a 
+BMW i8 what did you think of it as a 
+piece of design
+
+Rem_Koolhaas: (30:45) 
+no I I was part of a jury
+
+Paul_Goldberger: (30:47) oh ok
+
+Rem_Koolhaas: (30:48) 
+that had to define the best car of the year for 
+Germany and it was in a way eye-opening because 
+clearly the car industry is also engaging with the 
+Internet and and therefore also going 
+through the same radical transformation 
+and and being on the cusp you know are 
+we producing kind of guided robots or are we 
+improving the the machine that that we 
+are familiar with and and so it's kind of 
+very tragic because on the one hand you have 
+the most unbelievable fantastic 
+incredible sense of adventure behind 
+some of the steering wheels of sport 
+cars that I cannot mention here but that 
+really are deeply thrilling every second 
+you drive them
+
+Tony_Fadell: (31:40) 
+and they're also a blend of technology and the 
+and your world and bringing efficiency in as well
+
+Rem_Koolhaas: (31:44) 
+and on the other hand quasi robotic hideous 
+capsules that that that that probably 
+will deliver on their promise to deliver 
+you to the destination safely and so my 
+heart is clearly you know on one side 
+but I I hope that as we move on in 
+this confrontation or in this kind of 
+intersection of the two worlds we we don't 
+have to face these dilemmas between kind 
+of danger and harmlessness but that we 
+can kind of define more profound terms
+
+Paul_Goldberger: (32:23) right
+
+Rem_Koolhaas: (32:24) 
+for our existential demands
+
+Paul_Goldberger: (32:28) 
+and actually the the car industry is a very good 
+example because it at its best it does not sacrifice 
+the things that that make your heart race faster
+
+Tony_Fadell: (32:36) 
+sure absolutely but there's a lot of times 
+when you're sitting in traffic and your heart racing 
+very fast and you just wish I could just do something else
+
+Paul_Goldberger: (32:42) right right right yeah right right right
+
+Tony_Fadell: (32:43) 
+so you know I think we all love you know we 
+all love that feeling of freedom when you're 
+driving a car but ninety seven percent of the 
+time you really just know like I gotta get 
+there and I'd rather be doing something 
+else than sitting in this traffic
+
+Paul_Goldberger: (32:55) 
+like like being at home in your house playing 
+with your your technology
+
+Tony_Fadell: (32:58) something something
+
+Paul_Goldberger: (32:59) 
+something okay good good okay please join me in 
+thanking Tony Fadell and Rem Koolhaas
+
+Tony_Fadell: (33:05) thank you
+
+Paul_Goldberger: (33:06) great thank you

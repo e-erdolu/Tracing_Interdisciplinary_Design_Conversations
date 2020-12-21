@@ -1,0 +1,898 @@
+Niklas_Maak: (00:44) good afternoon it's a great 
+pleasure for me to welcome you all to this talk 
+on architecture and technology it's also a great 
+pleasure for me to welcome Rem Koolhaas founding 
+partner of OMA curator of this biennial and Tony 
+Fadell who is known as one of the so called fathers 
+of the iPod for his fundamental work on Apple's 
+famous music player he's also the founder and CEO 
+of Nest Labs a company that among other products 
+designs and manufactures sensor driven learning 
+devices like thermostats as you might have heard 
+Nest was recently acquired by Google and it's 
+maybe the most unnecessary thing to introduce 
+Rem Koolhaas here lengthly to you if you stroll 
+the internet for a minute you only find superlatives 
+the most influential controversial or the most 
+celebrated most enigmatic most important architect 
+and architectural thinker of our time so let me 
+maybe first say some words about this biennial 
+for all of you who just arrived and hadn't had 
+the occasion already to see the exhibition it's 
+a very special biennial called fundamentals and it 
+differs fundamentally from previous biennials it's 
+to somewhat not about architects and their current 
+projects like it was often the case but it's about 
+the history or to be more precise about the histories 
+of universally familiar elements that every architect 
+uses like the floor the door the wall the ramp and 
+so on and instead of just displaying the contemporary 
+production of buildings it investigates on the 
+history of these fundamental elements of architecture 
+and also on the history of modernization in 66 
+countries which happens in the pavilions all that 
+in order to create a solid base to answer the question 
+what do we have in architecture and where does 
+architecture go or could go from here as you all know 
+OMA has since its foundation in 1975 reframed the 
+practice of architecture of urban planning of cultural 
+analysis in architecture and it has created 
+groundbreaking buildings like the Berlin Embassy 
+the CCTV Headquarters in Beijing the Casa de Musica in 
+Porto or the Public Library of Seattle you know that 
+building where a ramp spirals up through four storeys 
+on a continuous series of shelves creating an unseen 
+new social space it was basically profound research 
+on elements like the ramp but preceded this building 
+in Seattle and comparibly I would say this exhibition 
+investigates on the history of elements to finally 
+stretch out to a possible future of architecture and 
+building so I would love to start with something we can 
+discover in this space in the main pavilion space 
+dedicated to the fireplace you find the very ancient 
+fireplaces there but also a thermostat by Nest and also 
+a disturbingly effective system that does not heat the 
+whole room anymore but that makes the heat which required 
+to follow you through that room so the heat follows you 
+while you're moving through that room so Rem what was 
+your interest in bringing these things together the very 
+ancient and these new technologies
+
+Rem_Koolhaas: (04:40) you said most of it but 
+basically I wanted to take a moment in principle for 
+myself but I thought it was interesting to share it 
+with the architectural community to reflect on elements 
+of architecture because I realized that I had been 
+producing architecture relatively thoughtfully but that 
+on certain elementary and fundamental level and that 
+I would call that a level of elements I had been rather 
+sketchy and that I had actually taken it for granted what 
+the meaning of a floor was what the meaning of a ceiling 
+was what the meaning of a wall was so it was really to 
+correct my own laziness that I launched the program of 
+research with Harvard University for two years and where 
+we try to identify the history of every element in every 
+culture so what the different meanings of particular 
+elements had been over time and halfway through this 
+process and that was actually kind of an improvisation 
+we began to realize that almost every architectural element 
+was about to associate itself with digital technology 
+traditionally architectural elements are mute and deaf 
+in other words they cannot speak and they cannot listen 
+but that is about to change because certain elements 
+are now equipped with digital devices which make them 
+able to respond and make them able to listen and in the 
+case of the thermostat actually it is essential that you 
+talk to them and after a while a kind of relationship is 
+being established between the element and the owner of 
+that element so halfway through the kind of research we 
+confronted the fact that it is not only the fact that 
+technologies are influencing architecture which it was 
+a more fundamental choice in front of us and probably 
+this isn't even a choice anymore it's a given but a 
+given to which we as an architectural community have not 
+really given any thought I would say that from now on each 
+element will be profoundly influenced by its association with 
+the digital world and so in that sense it was wonderful to 
+get to know Tony we had some interviews and I began to 
+understand but don't fully yet the implication of elements 
+like Tony's and his invention
+
+Niklas_Maak: (07:53) so so maybe I think most of you 
+and including me do not precisely understand what happens 
+when we come to a house that is equipped with your devices 
+so maybe you could talk about the thermostat and maybe 
+some other devices that you develop
+
+Tony_Fadell: (08:07) sure sure I'm sure this is 
+probably one of the first times Silicon Valley has shown 
+up at at this festival so and I'm glad to be able to 
+represent but you know what we're fundamentally doing 
+differently is taking the technology that we've been 
+creating and that actually powers things like the 
+smartphone and and products like it and embedding the 
+technology inside of very important products in fact 
+unloved products in the home for many years so in the 
+case of a thermostat how did I get there how did I 
+figure out from doing the iPod and then the iPhone to 
+actually doing a thermostat and for me what it started out 
+was we were designing this at the time this had not yet 
+been in the market place yet and at at the same time 
+as designing them
+
+Rem_Koolhaas: (09:03) what time are you talking about
+
+Tony_Fadell: (09:04) excuse me so this was about 2005 
+2006 we were designing this working on this and I was 
+beginning to design a home for our family a second home in 
+Lake Tahoe California and when I had this product in my hand 
+and working with it I thought to myself how will the world 
+change when the when the interface to your world will 
+always be in your hand how will the car change how will 
+vehicle's change how will the office change and how will 
+homes change when this could be one of the primary interfaces 
+to your to your home so designing the house was around that 
+and then also designing it around green and environmental 
+decisions so going back to the elements going back to 
+every single element as Rem has shown here and understanding 
+what would it be when it's connected and green and creating 
+a new thing and that's where we came on to the thermostat
+
+Niklas_Maak: (10:06) so you started with the thermostat
+
+Tony_Fadell: (10:08) yes
+
+Niklas_Maak: (10:09) how exactly does that work so you 
+talk to it it's always a little disturbing to see someone talk 
+to a part of his house so what happens
+
+Tony_Fadell: (10:17) so so the the Nest Learning Thermostat 
+it's a Learning Thermostat you don't talk to it you 
+literally the way you control it is like any device 
+you just literally turn it up or down it's it's one big 
+knob it's one big dial and you just turn it up and down 
+based on your temperature preference it's that simple 
+but what we found was it's not just beautiful object but 
+it's a learning object and why is it learning because 
+most people didn't know how to program a thermostat if you 
+had a traditional thermostat or actually a thermostat 
+from the 70s or 80s they haven't really changed you had to 
+program in when you wanted a temperature at a certain 
+time and you had to do that for each day of the week and 
+then as your as your schedule changed you had to go and 
+change it it was very much like a 1980s VCR where it was 
+blinking at you the time right just no one did that so they 
+just literally was a manual thermostat so we did instead was 
+literally as you turned it up or down we said after three days 
+you like at this temperature at this time this evening you 
+like at this temperature at this time so why don't we just 
+program it for you based on your habits and project that 
+forward and then as the seasons change and you change your 
+habits we just learn and adapt to that
+
+Niklas_Maak: (11:36) so that means that the object gathers 
+information and communicates also with other devices if 
+I understand that rightly
+
+Tony_Fadell: (11:45) well it can it can do that but first 
+and foremost it's a device it does not have to be connected to 
+anything in the Internet it can work alone standalone but 
+if you do connect it there's all kinds of benefits you 
+get from connecting it to our servers such as you can get 
+you can control it from any smart phone in the world or 
+any tablet or any computer so that you can check in not 
+just control the temperature but you can check in on 
+it to see how the home what temperature it is it can you can 
+see what your energy history how much energy you've used 
+thermostats before you just turn them on or off you had no 
+idea the energy impact you had right a thermostat in the US 
+and in Europe controls anywhere between 50 and 70 percent 
+of your annual energy bill
+
+Niklas_Maak: (12:31) yeah
+
+Tony_Fadell: (12:32) your total energy bill
+
+Niklas_Maak: (12:33) so but this thing works in a way that 
+you connect several individual thermostats and you connect 
+that with an energy supply plant if I understand that right
+
+Tony_Fadell: (12:42) yeah yeah so so
+
+Niklas_Maak: (12:43) there is it is a system of communicating 
+singular cells and maybe you can talk more about this because
+
+Tony_Fadell: (12:52) sure
+
+Niklas_Maak: (12:53) you can't save energy only if you 
+really connect all these
+
+Tony_Fadell: (12:55) sure
+
+Niklas_Maak: (12:56) personal
+
+Tony_Fadell: (12:57) sure it's it's designed to be able to 
+be a standalone product but then when it sees more products 
+like it around they start to communicate together and what 
+they do is literally they do things like understand the 
+temperature in different parts of the home making sure that 
+you're not cooling one part of the home and another part is 
+heating so that they're fighting and wasting energy they also 
+communicate to to learn when you're home and when you're away
+
+Niklas_Maak: (13:21) which means there is an instant device 
+that knows everything about your dwelling habits when you get 
+up when you go to bed when you want to have a cool room when 
+you want to have a heated bath so Rem are you sharing this 
+euphoria for this brave new world or are you skeptical are you 
+enthusiastic about this development of communicating houses
+
+Rem_Koolhaas: (13:45) I have mixed feelings I think I admire 
+the intelligence and I think that also the way in which you 
+can connect it to serious issues like energy use and like 
+sustainability and where you could actually use it as a kind 
+of tool to be frugal and kind of responsible I think that 
+could be good but I think there's also kind of fundamental 
+kind of reluctance on my part to see architecture be turned 
+into products to begin with to the relentless commercialization 
+of architectural elements and ultimately without being 
+particularly paranoid about it the degree to which you give 
+away elements of yourself but that may be kind of simply 
+a fundamentally different perception of the value of privacy 
+between my generation and your generation where my generation 
+sees privacy something that it values and it's been educated 
+but also used to keep privacy to keep things to themselves 
+and I think it is very clear that other generations are 
+emerging for whom sharing secrets and sharing elements of 
+themselves it's a form of regular human intercourse
+
+Niklas_Maak: (15:17) yeah maybe we should take this this 
+problem of privacy later on I just wanted to stick with 
+one point which is I think very crucial for this discussion is 
+it's basically maybe one of the first moments in the history 
+of architecture where the development of new forms of 
+architecture is primarily in the hands of private enterprises 
+and I mean it's it's interesting that that Google was so 
+interested in thermostats and when I heard this news first 
+that Google bought your company for a 3.2 billion dollars 
+I thought wow what do they want to do with thermostats and 
+of course it's much more than that I know that
+
+Tony_Fadell: (15:55) it's much more yes
+
+Niklas_Maak: (15:56) it's much more than that but as it's 
+much more than that it's very interesting because normally 
+you know that Google is not primarily interested in the 
+reduction of the carbon footprint but rather in the
+
+Tony_Fadell: (16:05) actually
+
+Niklas_Maak: (16:06) exploration of your digital footprint so
+
+Tony_Fadell: (16:08) it is actually very it's it's very 
+interested in reducing carbon footprint and that's one of 
+the one of the reasons why they were interested in us is 
+because we know that it's going to take many individuals 
+working together to actually be able to bring about change 
+heating and cooling residential heating and cooling in the US 
+alone accounts for 10% of the entire energy consumption and 
+so what can we do in each stage to to help save energy
+
+Niklas_Maak: (16:33) yeah yeah I'm trying to escape a 
+little trap that inevitably shows up when people from Silicon 
+Valley meet European architects journalists and thinkers 
+that is a confrontation of technophoria from
+
+Tony_Fadell: (16:48) sure sure
+
+Niklas_Maak: (16:49) California technophobia from Europe 
+but but still I'm sometimes quite worried if I see what 
+happens to to values like like informational self-determination 
+so how do you deal with this issue
+
+Tony_Fadell: (17:02) so
+
+Niklas_Maak: (17:03) how do you how do you protect the 
+use of your products from a possibility to be spied 
+out which is
+
+Tony_Fadell: (17:09) well well
+
+Niklas_Maak: (17:10) big question
+
+Tony_Fadell: (17:11) well first you know you are always in 
+control so these products don't take control away from you all 
+we're doing is we're learning from your habits so we're not 
+imposing anything on anyone in fact in most cases we're 
+actually just educating and giving you feedback on what your 
+what your abilities are but in terms of privacy and security we 
+are not a part of Google actually we might be owned by Google 
+but our data and our data services are stored in a different 
+location we have a separate management team a separate culture 
+a separate brand for a reason we believe your data is your data 
+and the data is only used for improvement of the products
+
+Niklas_Maak: (17:49) yeah
+
+Tony_Fadell: (17:50) it is not for putting ads on thermostats
+
+Niklas_Maak: (17:51) yeah yeah
+
+Tony_Fadell: (17:52) or anything like that
+
+Niklas_Maak: (17:53) we have we have several very interesting 
+topics here now one is privacy and one is that you say you 
+are educating people I'm very interested in that aspect 
+because normally education through architecture through built 
+products was merely a stately domain the state was defining 
+what's the minimum size of an apartment how much it should be 
+heated how big should a kitchen be now it's private enterprises 
+like like yours for defining how people should be educated but 
+maybe you want to
+
+Rem_Koolhaas: (18:22) yeah I
+
+Niklas_Maak: (18:23) get to the
+
+Rem_Koolhaas: (18:24) I would like to dwell on the thermostat 
+a little bit longer because you said it's not going to tell 
+you what to do but I saw in one application that it turns 
+green if you're behaving correctly right vis a vis
+
+Tony_Fadell: (18:37) so there is a there is a
+
+Rem_Koolhaas: (18:38) okay and then so there is a moment 
+where maybe it's not telling you what to do but it's 
+indicating when you're transgressing in the light of 
+human responsibility to be careful with our planet right
+
+Tony_Fadell: (18:57) yes absolutely
+
+Rem_Koolhaas: (18:59) so and I think you don't have to be a 
+technophobe or European to consider that that has the 
+potential to really I mean I made a caricature at some point 
+after 10 o'clock you could have a device that tells you that 
+to be responsible to mankind you should go to bed because 
+otherwise you you consume energy beyond your allotted quantity 
+and unless you pay of course
+
+Tony_Fadell: (19:35) sure we could take it to that that 
+conclusion if you will but at the end of the day you know 
+people don't really know even today with the devices in 
+their home they don't know how much energy is being 
+consumed they don't understand how much heating and 
+cooling does actually consume of your dollars so all we're 
+doing is giving you a feedback loop to allow you to adapt 
+if you so choose
+
+Rem_Koolhaas: (19:57) there's another thing before we go 
+to the said I asked you in the interview we had before 
+whether this was an invention for America or for the world
+
+Tony_Fadell: (20:08) yes
+
+Rem_Koolhaas: (20:09) and where you were currently selling 
+it and I would like you to kind of see to say something 
+about the applicability of this in other cultures
+
+Tony_Fadell: (20:16) sure sure
+
+Rem_Koolhaas: (20:17) and in other climates and in other 
+environments
+
+Tony_Fadell: (20:19) sure so when we first
+
+Rem_Koolhaas: (20:20) because of course as the the inventor 
+of so many elements that I have been received with universal 
+acceptance universal enthusiasm and have now established 
+themselves as the unmissable entities do you expect the 
+same thing there is same thing to happen to this kind of 
+thermostat or do you think there is a difference in degree
+
+Tony_Fadell: (20:45) well I first when we looked at and did 
+our research before we started the company thermostats are a 
+problem all around the world and they have very similar people 
+have similar problems all around the world so we currently 
+now sell the product in three countries only three countries 
+US Canada and UK but we because they're connected we can actually 
+see where they're being where they're being purchased in and 
+installed and we're finding they're in over 90 countries where 
+we don't even sell people want these devices maybe they're 
+maybe they like the technology or what have you and we are 
+quickly rolling this out to various various other countries but 
+what we should say is we are specifically looking and going 
+into homes in each country we do 200 300 different homes in 
+each country we enter to learn about the behaviors inside of 
+the home how the family works how you know the different the 
+different ways we can adapt the technology for that home so 
+we don't obviously just come and take the American imperialism 
+and say you're going to have it this way it took us a year to 
+adapt the product to hit the UK market one year of research 
+and design
+
+Rem_Koolhaas: (21:51) what adjustments did you make
+
+Tony_Fadell: (21:53) so what adjustments did we make first 
+of all only 40 percent of UK homes actually have a thermostat 
+so if I said today we're now selling the Nest Learning 
+Thermostat to the UK they would go what's a thermostat sixty 
+percent of people go I don't even know what a thermostat is 
+they have something called a programmer and we've had to add 
+programmer functionality into the thermostat to adapt to 
+the way people use those types of products in the UK we've 
+also had we also know that people are energy conscious in 
+different countries so it may be it's not always about energy 
+savings it's about information so each country has a different 
+way they think about these elements and we need to make sure 
+we adapt to them and not the other way around
+
+Niklas_Maak: (22:35) well I might maybe come back for a 
+second on the quite dystopic picture that was embedded in the 
+Rem's vision of the house telling you not to use that much 
+energy I mean even today already cars are able to provide 
+insurance companies and
+
+Tony_Fadell: (22:52) yes
+
+Niklas_Maak: (22:53) maybe the police and maybe private agent
+
+Rem_Koolhaas: (22:55) Niklas is a great expert on the car
+
+Niklas_Maak: (22:58) yeah because I think things show up 
+first in cars and then in architecture and I think if you look 
+closely at cars now they're already able to provide insurance 
+companies
+
+Tony_Fadell: (23:07) yes
+
+Niklas_Maak: (23:08) and private agents agents with detailed 
+data about your driving style
+
+Tony_Fadell: (23:12) absolutely
+
+Niklas_Maak: (23:13) your emotional state
+
+Tony_Fadell: (23:14) yes
+
+Niklas_Maak: (23:15) and some of the cars tell you make a 
+break you're driving since six hours and so the car controls 
+the the driver in a very close way so and the question is how 
+this might follow in this digital path so so what do you think 
+how can you prevent the machines that you're creating from 
+from getting out of control in terms of that the self 
+determination of the dweller is endangered
+
+Tony_Fadell: (23:41) well I think
+
+Rem_Koolhaas: (23:42) sorry I think I want to elaborate on the 
+question I think that it's not that you want to ask Tony how he 
+is going to prevent that his machines are
+
+Niklas_Maak: (23:52) no no
+
+Rem_Koolhaas: (23:53) going wrong but how are you going to 
+avoid that others because if you look at architecture the whole 
+of architecture is full of magnificent moments done with 
+incredible intelligence and then disseminating and kind of 
+becoming decadent being distributed across the entire world 
+and turning into a kind of horrible mess our patron saint is 
+Mies van der Rohe he invented the curtain wall the abstract 
+tower and if you see one for real it's breathtaking but if you 
+see the consequences of its invention it's really truly a nightmare 
+so I think we are not only talking about you and about your 
+intelligence we are talking about the direction you represent and 
+the domain you represent and the way of thinking you represent 
+which you may not control because all of us have the kind of 
+same problem we are thinkers we have a vision but we cannot 
+control with what others do with our vision
+
+Tony_Fadell: (24:53) absolutely
+
+Rem_Koolhaas: (24:54) or how they
+
+Tony_Fadell: (24:55) and the Snowden the Snowden revelations 
+have shown that no matter what we can do as companies and 
+protect all of the data there still could be nefarious things 
+going on that we are that are unbeknownst to us so I think these 
+are questions that we have to continue to bring up and we have 
+to have transparency so not just transparency through the products 
+transparency through the companies that we work with but also 
+through our governments and what we're doing and what we as as 
+Google as as well as other large data store companies are asking 
+the US government to be much more transparent about these things 
+and make sure that we have an open dialogue and understanding 
+of what's really being done and why it's being done so we are 
+right now at this precipice of what is going to happen with 
+these kinds of connected objects and it's going to I don't think 
+it's gonna stop it's not going to be answered this year and 
+it's not gonna be answered for hundreds of years it's going to 
+be an ongoing dialogue
+
+Rem_Koolhaas: (25:53) can can can I have a show of hands who 
+believes in transparency Tony
+
+Tony_Fadell: (26:06) yes I see I see
+
+Rem_Koolhaas: (26:12) I think transparency is simply not strong 
+enough as an argument to to counteract some of these questions
+
+Tony_Fadell: (26:20) I understand
+
+Rem_Koolhaas: (26:21) particularly if you talk about transparencies 
+in government and then kind of a part one effect of whatever 
+government I think we are all inert and have kind of developed 
+a sincere cynicism about a possibility itself and that is exactly 
+our tragedy because we would love to believe in it we would love 
+to believe that transparency is achievable but at the same time 
+we live in a world where exactly the digital makes everything so 
+opaque and so untraceable and so beyond our reach in terms of 
+following all its path that transparency is in from your mouth 
+kind of really not the hatch we are looking for
+
+Tony_Fadell: (27:12) and I understand that there are we always 
+know that there's no perfection in terms of transparency so 
+I have a different question how many of you have smartphones here 
+in the audience can you raise your hand how many of you okay 
+how many of you would give them up right now and never use them 
+again because your fear of security well you got rid of it you 
+don't have it anymore no more okay no my my I guess my my only 
+point here is specifically look there are convenience that comes 
+through connectivity there are things that can be born out of 
+connectivity but we always have the downsides of technology the 
+same thing goes when the first telephones were installed right 
+we it's it's it's
+
+Rem_Koolhaas: (27:53) I think it's not about whether we believe 
+our iPhones or not I mean of course we believe our iPhones 
+and but we all are deeply cynical about what they can really 
+represent but we live with that cynicism because it gives us 
+certain things we want but in the end they have the ability to 
+throw it away or not and of course anything that is embedded in 
+architecture as a kind of totally different status and quality 
+because it is embedded
+
+Niklas_Maak: (28:25) I would be I would be interested at that 
+point to ask those to the architect about how how actually is 
+architecture changing or the terms we we use to describe and 
+conceive architecture how are they changing if you look at the 
+technological change if we talked about this earlier on if people 
+are starting to work from home from their bedroom if they're 
+sitting eight hours in their bedroom sitting with a laptop 
+communicating through mobile phones and Twitter you could say 
+the privacy is not given anymore anyway but then what how do you 
+react as an architect to these technological changes that also 
+changed our idea and our conception of privacy and public life 
+because you could argue that the bedroom equipped with iPhone and 
+laptop is much more of a public space than other spaces in town so
+
+Rem_Koolhaas: (29:12) I've tried to write kind of something about 
+my kind of even worse feelings about this whole thing and in my 
+essay I'm kind of suggesting that the values egalite fraternite 
+and whatever the third one was have been have been and it's kind 
+of symptomatic that I don't even know are now replaced by comfort 
+security and sustainability and that that in itself is a kind 
+of went in parallel with kind of shift in power kind of globally 
+where in the 60s 70s we witnessed almost everywhere the state in 
+its relatively vigorous form where in countries like Europe we 
+even at a welfare state a state that took care of its citizens 
+but where since the introduction and appearance on the scene of 
+Reagan and Thatcher particularly from the anglosaxon world onward 
+another logic has been preached the logic of the market that has 
+systematically dismantled the state and what is the real dilemma 
+for architects is that we use to work as extensions of the state 
+to some extent and therefore we were always in connection to good 
+intentions or we could claim that or believe it but now we are 
+condemned to work for individuals and and hopefully they're the 
+right transparent individuals but of course this guarantee is no 
+longer there and that means that the vast thrust of our ingenuity 
+is gone to satisfying individual needs and what has been kind of 
+completely disappearing is our thinking about collective means 
+and that is a kind of really drastic shift from which we have not 
+really emerged and which we haven't even kind of articulated in 
+a kind of smart way yet
+
+Niklas_Maak: (31:37) maybe I think that's an interesting topic 
+to discuss because if we talk right now about comfort and security 
+and improving houses to get be more green and more energy-efficient 
+than we're talking about the houses as we know them like houses 
+in suburbia or apartments in the city but it's a given fact that 
+if you look at demographics which is I think very important you 
+see that within the next two decades up to like 700 million people 
+will move to big agglomerations of Asia and India alone and they 
+have to live in places and inhabitable units and these inhabitable 
+units will not be houses as we know them or apartment buildings 
+as we know them so my question would be if we're talking about 
+architecture and technology it cannot only be the question of 
+how to improve gradually the the classic single-family home but 
+really to how to create and produce and build new structures that 
+can cope with these incredible masses of people who have to be 
+housed in the future so my question to both of you would be over 
+talking about architecture and technology what is the important 
+point when we're talking about these new forms of inhabitable 
+units and the related questions like how will these people dwell 
+what kind of social life will they lead in these agglomerations 
+so what would be your ideas about this issue Tony
+
+Tony_Fadell: (33:05) well well well right now we are we've 
+already been asked to work on many of this intelligent cities 
+or green cities in China and to give our ideas of what this 
+could what it could look like and what we're finding is 
+that collectively when individuals get information about 
+their habits as well as understand how they are relative to 
+those who are right around them they actually adapt very 
+quickly to more than the the norm they understand when 
+they're outside epsilon of of the norm and so what we find is 
+individuals driven by other individuals not by governments not 
+by companies but individuals driven by other individual data 
+actually makes people change change dramatically in a way that's 
+actually beneficial to the overall good because we're all 
+concerned about the same things we're concerned about the 
+environment we're concerned about costs we're concerned about 
+our children and so when you actually be able to make that 
+information available then people actually respond appropriately 
+not more rules but just information to allow people to have make 
+better decisions
+
+Rem_Koolhaas: (34:12) I I have an observation I am driving a 
+very old car and it it frequently breaks down and then I have 
+obliged to rent a new car and basically there is a kind of 
+particular kind of car that kind of in front of you project your 
+speed and my sad conclusion is that in a car that projects my 
+speed I'm driving better and kind of more obediently than in my 
+car that doesn't kind of indicate my speed so it is true that 
+all these devices have a kind of tendency to make us behave 
+better but I think and and and almost every word you use is 
+kind of about better improved correct
+
+Tony_Fadell: (35:06) but but we
+
+Rem_Koolhaas: (35:07) you mention it for the children younger 
+generation all of that implies that if you don't behave well 
+you're totally responsible nightmarish asshole who doesn't 
+care about
+
+Tony_Fadell: (35:16) no
+
+Rem_Koolhaas: (35:17) the younger generations
+
+Tony_Fadell: (35:19) I'm saying collectively not individually
+
+Rem_Koolhaas: (35:20) what about no no what about transgression
+
+Tony_Fadell: (35:23) transgression
+
+Rem_Koolhaas: (35:24) transgression where is transgression in 
+your in your story
+
+Tony_Fadell: (35:29) yeah yeah I I well first there's two things 
+one is what is what means good what means bad in other words 
+who's controlling the algorithms that's saying these are the right 
+algorithms I think we have to look at that and understand when we 
+have artificial intelligence who's creating those things that 
+are giving you the feedback is that the right feedback 
+transgressions absolutely I think you know whether you're a 
+teenager or you're older you should still be able to do whatever 
+you so choose to do but typically people you know if they're 
+individuals they want to be individuals but that's usually when 
+they're they don't have a family or they don't have real connections 
+to the community when they have connections to the community then 
+they start thinking much more not just about themselves they think 
+a little bit broader and so I totally believe people should be in 
+control of their own lives the way they choose to but at the end 
+of the day certain people want to see our future generations be 
+better than they are today
+
+Rem_Koolhaas: (36:23) of course of course yeah
+
+Niklas_Maak: (36:25) but but then how do you find better better 
+means more obedient or could the opposite thing be true to
+
+Tony_Fadell: (36:32) I'm no moral judge I'm no moral judge 
+I'm no moral jury all I know is when I'm spending too much money 
+on my heating and I have no control over it whatsoever and I 
+finally have information that's great just like if I consume too 
+much food or I do something like that I want that information to 
+make either myself better in some way or whatever way I want maybe 
+I'm too nice maybe I'm I'm following too many of the rules I want 
+to break the rules the information just tells you are relative
+
+Rem_Koolhaas: (37:00) yeah yeah
+
+Niklas_Maak: (37:01) could could we
+
+Tony_Fadell: (37:02) I'm not listening to enough different music 
+not just the music I always like to listen
+
+Niklas_Maak: (37:05) could we talk about discomfort because we're 
+talking a lot about comfort and security can we talk about the 
+quality of discomfort I mean as this Japanese writer Junichiro 
+Tanizaki who in his book In Praise of Shadows writes it's it's 
+the sudden sensation of coming into the cold the attentiveness 
+that you have to this effect of the cold intensifies your 
+perception and makes you a lucky person so how do you deal with 
+this idea of discomfort of challenging environments as a quality
+
+Tony_Fadell: (37:35) so so so to me when I grew up the most 
+memorable moments I had in my family is when there was conflict 
+when there was discomfort whether it was pleasurable or a 
+nonpleasurable discomfort when there was conflict of some sort 
+when I look and we purchased you know like we purchased a car for 
+our family we have two young three now three young children people 
+were saying well why don't you get the rear cars you know the car 
+TVs the TVs in the rear seats and everything cuz it pacifies the 
+kids it's the best babysitter ever I'm like the memorable moments 
+that I had was not having that technology there but when the kids 
+are screaming at each other and doing these things so our goal at 
+Nest is to actually get the technology behind the scenes not put 
+yet another screen in front of your face you know my wife always 
+says you know when I when she goes you know we try to get the kids 
+off of these things she goes you're the guy who created it you're 
+the problem here right you're the one who put these in front of 
+all of our kids and I agree with that right in a way but at the 
+same time these new things that we put in our homes we need to 
+make sure the technology stays as part of the fixed elements it's 
+not in your face not another screen to distract and bring more 
+comfort but to allow more conflict
+
+Niklas_Maak: (38:50) can can your thermostats simulate discomfort 
+cold sudden cold or
+
+Tony_Fadell: (38:56) absolutely
+
+Niklas_Maak: (38:57) can you program them like that
+
+Tony_Fadell: (38:58) we could absolutely do that you know people 
+ask me all the time did does your does your device actually you 
+know fix the the spouse problem and what's the spouse problem this 
+one spouse turns it up to this temperature and the other spouse 
+five minutes later turns it down to the next temperature and it 
+and they fight and I said we are not a marriage counsellor Nest 
+the Learning Thermostat is not a marriage counselor but what we 
+do do is we can tell you who did what when and then you can have 
+that that fight over what's the right thing to do for the family 
+what's the right thing to do for your home so no more passive 
+aggressiveness you're gonna actually be able to have data and 
+go oh yes you did no I didn't yes you did
+
+Niklas_Maak: (39:39) so so Rem how how can you escape the overly 
+comfy and overly secure building as an architect
+
+Rem_Koolhaas: (39:47) Well as an architect you have a vast 
+repertoire of discomfort at your almost dangerous repertoire so 
+for us that is not a problem we can create discomfort every 
+Monday morning but it is true that and for instance there is a 
+room in the exhibition which is dedicated to to ramp which I 
+find personally one of the most fascinating rooms because that 
+is developed by it's a room about two men that were born in the 
+same year in 1923 who came out of the war as 22 young vigorous 
+man one an American and one a Frenchman the Frenchman became an 
+architect and challenged by the euphoria of the kind of French 
+economy and French miracle of rebuilding he speculated that it 
+was unbelievably exciting to live on inclined space and that 
+anyone who always spent his life on a horizontal plane was 
+wasting a permanent sense of adventure the other men the same 
+age the same history also an architect was surrounded by a huge 
+amount of veterans in wheelchairs his friends who came out of 
+the war wounded and he became dedicated to the issue of 
+handicapped access and therefore was single-handedly responsible 
+for making those conditions accepted in America and and now 
+universally applied in the entire world so one had a huge 
+influence but the influence was on kind of lowering the steepness 
+and therefore lowering difficulty lowering discomfort the other 
+was in any technical term of the word a failure but in my eyes a 
+totally heroic failure because he wanted the impossible and I 
+think that that is also kind of streak that is hidden in this 
+whole discussion are you insane if you want the impossible or 
+are you only kind of responsible if you want to explore the 
+maximum of what what what is possible are you utopian or not 
+do you think it's important to be utopian and then what is your 
+utopia
+
+Tony_Fadell: (42:13) I think it's important to be optimistic I 
+don't think there's a utopia because everyone has a different 
+way of thinking of the right way to live and the right way to 
+be so no I'm not a technoutopian by any means but I do believe 
+we have societal or in global problems that we all need to 
+chip in to fix we can't all decide  with the lack of information 
+to coliving our lives without understanding each of our own 
+footprint on this planet and by having that information you're 
+able to actually adjust things and just alone in the in the 
+number of homes were in we've already saved over two billion 
+kilowatt hours of energy in just two years in just two and a 
+half years that's the entire energy consumption of the US in 30 
+minutes we shut that off and that was just little things that no 
+one's done anything really differently accept the product learned 
+from your behavior and it just reflected what you do and you 
+didn't have to program it so I think these little things you 
+can take it to the extreme absolutely and the government can 
+come and say we're gonna control everything we think that these 
+little things little steps each one we can do can actually help 
+a lot
+
+Niklas_Maak: (43:21) so so Rem what would be your utopia in the 
+age of learning dwelling devices
+
+Rem_Koolhaas: (43:29) I I really cannot answer this question 
+I just want to we had breakfast this morning and I want to 
+kind of refer to to your what you told us about your youth and 
+and how you were you know your grandfather was involved in the 
+car industry and so how from a very young age you work kind of 
+actually making things and kind of making elements and and 
+what I understood from there is that if we had known each other 
+at that time it would have been wonderful to collaborate because 
+you could collaborate actually on an element now it is wonderful 
+to collaborate but what you do is you plant a device in my 
+element and there is therefore less of a kind of less of an 
+overlapping and less of so I would love to kind of work with 
+you as an engineer on the kind of tooling and kind of maybe 
+taking a step back and increasing not the intelligence of a 
+single element but the intelligence of the whole
+
+Tony_Fadell: (44:35) yeah I I thank you and that's why we're 
+here that's why I'm here is to learn actually from from from 
+architects and this audience and to learn about different parts 
+of the world and how technology can be intelligently applied to 
+solving these basic problems that we have not utopia where one 
+button does everything for you the Jetson style we're talking 
+about simple basic things unloved products that we've had in 
+our homes you if you look at many of the elements that we have 
+in our homes today they came from industrial settings from 
+commercial settings and they got refactored and put into our 
+hands it's kind of like what happened with Microsoft Windows 
+and and technology it came from the ID IT departments of of 
+of you know big companies and it got pushed down upon you and 
+you had to basically take it the way it was we had to take 
+commercial technology and it became consumer what we're doing 
+now is really truly making consumer products and and personal 
+products for people and now we're actually going back into the 
+large office spaces and the government's and changing those 
+products the
+
+Niklas_Maak: (45:42) so this means you you're taking your 
+technology from the level of housing to the level of urbanism 
+which is quite interesting we you you are like getting bigger 
+and bigger by now kind of planning whole cities with your 
+technology so Rem what do you see you you worked among other 
+countries in China where you said you could address certain 
+projects not with architectural means anymore but more with 
+urbanistic tools so could you maybe before we open this up to 
+the public could we talk if we talk about architecture and 
+technology talk also about the impact of technology in urbanism 
+and planning devices for these big tasks of the future to come
+
+Rem_Koolhaas: (46:22) Well the interesting thing is that this 
+communication is not the the only communication with Silicon 
+Valley that we've had for some reason in the last year there has 
+been a lot of interaction and interface with Silicon Valley 
+and us and I really welcome the first appearance of anyone from 
+Silicon Valley in Venice because I think it's a very very 
+interesting world situation and I hope that you also understand 
+that we need you and your kinds of thinking in in every sense 
+so you should feel not a kind of way of skepticism but on the 
+contrary a profound need and profound welcome to to collaborate 
+the only and and so we've been confronted with organizations that 
+undeniably can help plan cities with vastly greater intelligence 
+and that can kind of undeniably help to anticipate a number of 
+likely scenarios that are imposed on us for instance by global 
+warming it's without any doubt that cities like Venice which is 
+kind of sinking in front of our very eyes and kind of the the 
+absolute example of how threatening this kind of reality is is 
+that with that in front of our eyes we cannot be we cannot afford 
+to be cynical about what all of this has to offer on the other 
+hand probably a city like Venice could not have ever been produced 
+if we had these technologies because it is so profoundly irrational 
+and so profoundly illogical to of all places work here and that 
+is for me a constant dilemma yes we can be infinitely better 
+behaved we can be infinitely more logical we can be infinitely 
+more correct we can be infinitely better prepared we can be 
+infinitely but I have not seen yet and that could be the possible 
+outcome of a kind of interaction I have not seen yet the the 
+profoundly creative dimension that could really transform beyond 
+improvement
+
+Niklas_Maak: (48:52) yeah
+
+Rem_Koolhaas: (48:53) or that could really transform but of course 
+we are all very keen to engage that possibility
+
+Niklas_Maak: (48:58) yeah thank you
